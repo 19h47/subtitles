@@ -1,0 +1,368 @@
+[Script Info]
+Title: <untitled>
+Original Script: <unknown>
+ScriptType: v4.00+
+PlayResX: 384
+PlayResY: 288
+PlayDepth: 0
+Timer: 100.0
+WrapStyle: 0
+
+[v4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic,  Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Arial,20,&H00FFFFFF,&H00000000,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,0,2,15,15,15,0
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:15.63,0:00:17.27,Default,,0000,0000,0000,,C'est Britney, mon salaud.
+Dialogue: 0,0:00:17.40,0:00:18.84,Default,,0000,0000,0000,,Et je suis de retour
+Dialogue: 0,0:00:18.96,0:00:22.46,Default,,0000,0000,0000,,avec ma nouvelle société...\NLa Michael Scott Paper Company.
+Dialogue: 0,0:00:32.56,0:00:34.16,Default,,0000,0000,0000,,Je vais pas y arriver.
+Dialogue: 0,0:00:40.24,0:00:41.33,Default,,0000,0000,0000,,Jolie coupe.
+Dialogue: 0,0:00:45.13,0:00:47.08,Default,,0000,0000,0000,,- Bonjour, Michael.\N- Salut.
+Dialogue: 0,0:00:48.92,0:00:52.30,Default,,0000,0000,0000,,Ils m'ont pris ma place de parking,\Nmais ils me prendront pas ma fierté.
+Dialogue: 0,0:00:58.76,0:01:02.22,Default,,0000,0000,0000,,Je voudrais vous inviter\Nà m'accompagner dans ce voyage.
+Dialogue: 0,0:01:11.90,0:01:13.00,Default,,0000,0000,0000,,Bienvenue...
+Dialogue: 0,0:01:13.80,0:01:15.95,Default,,0000,0000,0000,,à la Michael Scott Paper Company.
+Dialogue: 0,0:01:19.91,0:01:22.41,Default,,0000,0000,0000,,Sous-titres :\N- Feygnasse Team -
+Dialogue: 0,0:01:22.58,0:01:25.45,Default,,0000,0000,0000,,Adaptation VF :\NJarick, Jaqpotjaq, Sk0r, Collioure
+Dialogue: 0,0:01:49.69,0:01:51.86,Default,,0000,0000,0000,,{\pos(275,155)}Épisode 5x21\NThe Michael Scott Paper Company
+Dialogue: 0,0:01:53.56,0:01:56.21,Default,,0000,0000,0000,,{\pos(120,260)}Je pensais\Nqu'on pourrait emmener les clients...
+Dialogue: 0,0:01:57.61,0:01:58.42,Default,,0000,0000,0000,,en...
+Dialogue: 0,0:02:00.41,0:02:01.91,Default,,0000,0000,0000,,Ensuite, on pourrait...
+Dialogue: 0,0:02:02.26,0:02:04.77,Default,,0000,0000,0000,,Tu te rends compte\Nque tu me parles pas ?
+Dialogue: 0,0:02:04.90,0:02:06.25,Default,,0000,0000,0000,,- Et...\N- Kelly ?
+Dialogue: 0,0:02:08.46,0:02:10.54,Default,,0000,0000,0000,,{\pos(110,260)}Oui, Charles. Vous me voulez.
+Dialogue: 0,0:02:10.71,0:02:12.21,Default,,0000,0000,0000,,Je parlais de cette Kelly.
+Dialogue: 0,0:02:13.16,0:02:15.27,Default,,0000,0000,0000,,{\pos(110,260)}La nouvelle réceptionniste\Ns'appelle aussi Kelly.
+Dialogue: 0,0:02:15.40,0:02:18.03,Default,,0000,0000,0000,,{\pos(110,260)}Alors Kelly Kapoor a décidé\Nde rôder autour de mon bureau,
+Dialogue: 0,0:02:18.16,0:02:21.61,Default,,0000,0000,0000,,{\pos(110,260)}pour se précipiter dans son bureau\Ndès qu'il appelle Kelly.
+Dialogue: 0,0:02:21.85,0:02:24.37,Default,,0000,0000,0000,,{\pos(110,260)}Elle pense qu'en lui disant\N"Vous me voulez",
+Dialogue: 0,0:02:24.50,0:02:26.36,Default,,0000,0000,0000,,{\pos(110,260)}il finira par vouloir d'elle.
+Dialogue: 0,0:02:27.02,0:02:29.07,Default,,0000,0000,0000,,{\pos(110,260)}C'est pas le pire de ses plans.
+Dialogue: 0,0:02:29.44,0:02:30.48,Default,,0000,0000,0000,,{\pos(110,260)}Et, Kelly...
+Dialogue: 0,0:02:30.61,0:02:32.98,Default,,0000,0000,0000,,{\pos(110,260)}Oui, Charles...\NVous me voulez.
+Dialogue: 0,0:02:34.00,0:02:35.90,Default,,0000,0000,0000,,{\pos(110,260)}OK, je vous appellerai Kapoor.
+Dialogue: 0,0:02:36.84,0:02:38.14,Default,,0000,0000,0000,,{\pos(110,260)}Et vous, Hannon.
+Dialogue: 0,0:02:38.52,0:02:40.59,Default,,0000,0000,0000,,{\pos(110,260)}Quitte à changer,\Nje pourrais être Erin ?
+Dialogue: 0,0:02:40.71,0:02:43.78,Default,,0000,0000,0000,,{\pos(110,260)}- C'est mon 2e prénom.\N- Erin ? OK. C'est très joli.
+Dialogue: 0,0:02:44.94,0:02:47.63,Default,,0000,0000,0000,,{\pos(110,260)}Vous connaissez mon 2e prénom ?\NRajani Ghanda. Je le déteste !
+Dialogue: 0,0:02:47.76,0:02:49.01,Default,,0000,0000,0000,,{\pos(110,260)}Je le déteste !
+Dialogue: 0,0:02:51.58,0:02:54.50,Default,,0000,0000,0000,,{\pos(110,260)}Je croyais que Rajani Ghanda\Nétait un prénom masculin.
+Dialogue: 0,0:03:02.98,0:03:04.70,Default,,0000,0000,0000,,On est en plein dedans.
+Dialogue: 0,0:03:05.58,0:03:07.93,Default,,0000,0000,0000,,Et les vagues déferlantes\Ntransportent
+Dialogue: 0,0:03:08.10,0:03:10.33,Default,,0000,0000,0000,,{\pos(110,260)}notre société vers le large.
+Dialogue: 0,0:03:10.81,0:03:11.94,Default,,0000,0000,0000,,{\pos(110,260)}On fait quoi ?
+Dialogue: 0,0:03:12.85,0:03:13.91,Default,,0000,0000,0000,,{\pos(110,260)}On attend
+Dialogue: 0,0:03:14.03,0:03:16.82,Default,,0000,0000,0000,,{\pos(110,260)}en espérant que les gens\Nviendront à notre déjeuner.
+Dialogue: 0,0:03:16.98,0:03:20.53,Default,,0000,0000,0000,,{\pos(110,260)}Je pense avoir tout fait\Npour nous préparer à cette journée.
+Dialogue: 0,0:03:20.97,0:03:23.00,Default,,0000,0000,0000,,{\pos(110,260)}J'ai mis à jour nos contacts.
+Dialogue: 0,0:03:23.12,0:03:25.69,Default,,0000,0000,0000,,{\pos(110,260)}J'ai fait des devis\Nchez les fournisseurs.
+Dialogue: 0,0:03:25.82,0:03:27.45,Default,,0000,0000,0000,,{\pos(110,260)}J'ai envoyé des invitations
+Dialogue: 0,0:03:27.71,0:03:30.54,Default,,0000,0000,0000,,pour notre grand déjeuner\Nd'inauguration.
+Dialogue: 0,0:03:30.71,0:03:33.82,Default,,0000,0000,0000,,{\pos(110,260)}6 "Oui", 1 "Peut-être",\Net seulement 11 "Non"
+Dialogue: 0,0:03:35.73,0:03:38.32,Default,,0000,0000,0000,,Et j'attends encore 788 réponses.
+Dialogue: 0,0:03:38.45,0:03:39.96,Default,,0000,0000,0000,,Mais parmi ce groupe,
+Dialogue: 0,0:03:40.09,0:03:42.19,Default,,0000,0000,0000,,782 ont vu l'invitation.
+Dialogue: 0,0:03:44.32,0:03:45.72,Default,,0000,0000,0000,,J'aurais besoin...
+Dialogue: 0,0:03:46.71,0:03:48.26,Default,,0000,0000,0000,,de 800 copies de ceci
+Dialogue: 0,0:03:48.76,0:03:50.66,Default,,0000,0000,0000,,sur du beau papier brillant.
+Dialogue: 0,0:03:50.99,0:03:53.99,Default,,0000,0000,0000,,C'est un bon\Npour un service client exceptionnel.
+Dialogue: 0,0:04:01.66,0:04:03.03,Default,,0000,0000,0000,,Si je fais cette copie,
+Dialogue: 0,0:04:03.20,0:04:05.36,Default,,0000,0000,0000,,je deviens\Ncelle qui fait les copies.
+Dialogue: 0,0:04:05.49,0:04:08.22,Default,,0000,0000,0000,,Et avant la fin de la journée,\Nje serai à nouveau réceptionniste.
+Dialogue: 0,0:04:08.64,0:04:11.49,Default,,0000,0000,0000,,Et le pire,\Nc'est que j'aime faire des copies.
+Dialogue: 0,0:04:11.82,0:04:13.78,Default,,0000,0000,0000,,Le papier sort tout chaud.
+Dialogue: 0,0:04:14.90,0:04:18.17,Default,,0000,0000,0000,,Et il fait froid là-dedans,\Nparce que c'est un débarras.
+Dialogue: 0,0:04:25.47,0:04:28.17,Default,,0000,0000,0000,,- T'en penses quoi ?\N- Laisse-moi vérifier.
+Dialogue: 0,0:04:30.75,0:04:33.68,Default,,0000,0000,0000,,C'est un chasseur !\NUn qui sait choisir ses tenues.
+Dialogue: 0,0:04:34.64,0:04:36.98,Default,,0000,0000,0000,,Oui, je vais chasser avec Andy\Naprès le boulot.
+Dialogue: 0,0:04:37.32,0:04:39.69,Default,,0000,0000,0000,,Récemment,\Nnous étions des adversaires sexuels.
+Dialogue: 0,0:04:39.86,0:04:42.29,Default,,0000,0000,0000,,À l'époque, je le détestais.
+Dialogue: 0,0:04:42.98,0:04:46.18,Default,,0000,0000,0000,,Je l'ai étudié pour comprendre\Npourquoi je le détestais tant.
+Dialogue: 0,0:04:46.49,0:04:48.63,Default,,0000,0000,0000,,Et cela s'est transformé\Nen une amitié sincère,
+Dialogue: 0,0:04:48.75,0:04:50.44,Default,,0000,0000,0000,,comme ça arrive souvent.
+Dialogue: 0,0:04:51.82,0:04:54.11,Default,,0000,0000,0000,,Tu devrais venir en ville\Nce weekend.
+Dialogue: 0,0:04:54.23,0:04:55.84,Default,,0000,0000,0000,,On trainera à Scranton.
+Dialogue: 0,0:04:55.97,0:04:58.19,Default,,0000,0000,0000,,Tu m'as dit\Nque tu serais parti ce weekend.
+Dialogue: 0,0:04:58.32,0:05:00.57,Default,,0000,0000,0000,,Arrête d'écouter mes conversations.
+Dialogue: 0,0:05:01.55,0:05:03.13,Default,,0000,0000,0000,,Ouais, c'est une...
+Dialogue: 0,0:05:03.92,0:05:07.20,Default,,0000,0000,0000,,Elle vaudrait un 6 à New York,\Nmais elle vaut un 7 à Scranton.
+Dialogue: 0,0:05:07.72,0:05:10.48,Default,,0000,0000,0000,,Et le patron\Nest l'ancien patron de Dunder Mifflin.
+Dialogue: 0,0:05:12.37,0:05:13.77,Default,,0000,0000,0000,,C'est un petit espace.
+Dialogue: 0,0:05:14.46,0:05:15.60,Default,,0000,0000,0000,,Jim, tu peux me...
+Dialogue: 0,0:05:18.29,0:05:20.44,Default,,0000,0000,0000,,Tu peux me faire\Nun récapitulatif de tes clients ?
+Dialogue: 0,0:05:20.79,0:05:21.79,Default,,0000,0000,0000,,Bien sûr.
+Dialogue: 0,0:05:25.55,0:05:27.24,Default,,0000,0000,0000,,C'est quoi, un récapitulatif ?
+Dialogue: 0,0:05:29.02,0:05:31.06,Default,,0000,0000,0000,,Quand as-tu besoin\Nde ce récapitulatif ?
+Dialogue: 0,0:05:31.19,0:05:33.50,Default,,0000,0000,0000,,Le plus vite possible.\NFais-moi ça bien.
+Dialogue: 0,0:05:34.23,0:05:35.68,Default,,0000,0000,0000,,Compris. Bien sûr.
+Dialogue: 0,0:05:36.53,0:05:38.46,Default,,0000,0000,0000,,Je m'y plonge tout de suite.
+Dialogue: 0,0:05:38.58,0:05:40.65,Default,,0000,0000,0000,,Ce sera crevant, comme un triathlon.
+Dialogue: 0,0:05:40.77,0:05:42.22,Default,,0000,0000,0000,,Tu veux fermer ça ?
+Dialogue: 0,0:05:42.75,0:05:44.20,Default,,0000,0000,0000,,La garder fermée...
+Dialogue: 0,0:05:52.06,0:05:54.29,Default,,0000,0000,0000,,- Il y a un fantôme dans ce bureau.\N- Sérieux ?
+Dialogue: 0,0:05:54.41,0:05:57.36,Default,,0000,0000,0000,,Une femme a été tuée\Nà cet étage en 1816.
+Dialogue: 0,0:05:57.87,0:05:59.11,Default,,0000,0000,0000,,Haddie McGonagle,
+Dialogue: 0,0:05:59.24,0:06:00.52,Default,,0000,0000,0000,,une prostituée.
+Dialogue: 0,0:06:01.05,0:06:02.56,Default,,0000,0000,0000,,Qu'est-ce qu'elle faisait ici ?
+Dialogue: 0,0:06:02.73,0:06:05.03,Default,,0000,0000,0000,,Cet immeuble était une maison close.
+Dialogue: 0,0:06:05.62,0:06:07.79,Default,,0000,0000,0000,,Il y avait une taverne\Nau rez-de-chaussée.
+Dialogue: 0,0:06:07.91,0:06:10.23,Default,,0000,0000,0000,,- C'est de la folie.\N- Je te le fais pas dire.
+Dialogue: 0,0:06:10.36,0:06:13.40,Default,,0000,0000,0000,,Elle fut battue à mort\Nà coups de cravache.
+Dialogue: 0,0:06:14.63,0:06:15.93,Default,,0000,0000,0000,,Ce fut effroyable.
+Dialogue: 0,0:06:16.89,0:06:19.09,Default,,0000,0000,0000,,On dit qu'elle déambule\Ndans les couloirs.
+Dialogue: 0,0:06:19.21,0:06:22.88,Default,,0000,0000,0000,,Si tu sens une tape sur l'épaule,\Nc'est peut-être Haddie,
+Dialogue: 0,0:06:23.18,0:06:24.90,Default,,0000,0000,0000,,qui implore qu'on l'épargne.
+Dialogue: 0,0:06:25.03,0:06:27.63,Default,,0000,0000,0000,,Et ça peut vouloir dire\Nque tu es la prochaine.
+Dialogue: 0,0:06:32.87,0:06:35.07,Default,,0000,0000,0000,,Je plaisante. Tout se passe bien ?
+Dialogue: 0,0:06:36.24,0:06:37.64,Default,,0000,0000,0000,,J'ai trouvé de la glace.
+Dialogue: 0,0:06:42.44,0:06:43.48,Default,,0000,0000,0000,,C'est gênant.
+Dialogue: 0,0:06:53.91,0:06:55.51,Default,,0000,0000,0000,,À plus tard, les gars.
+Dialogue: 0,0:07:03.04,0:07:04.04,Default,,0000,0000,0000,,Mon pote.
+Dialogue: 0,0:07:09.05,0:07:11.13,Default,,0000,0000,0000,,Tu as fait la copie\Nde tout à l'heure ?
+Dialogue: 0,0:07:11.53,0:07:14.26,Default,,0000,0000,0000,,- Pam est plus douée pour ça.\N- C'est très insultant.
+Dialogue: 0,0:07:14.38,0:07:16.92,Default,,0000,0000,0000,,En quoi un compliment\Nest insultant ?
+Dialogue: 0,0:07:17.05,0:07:20.39,Default,,0000,0000,0000,,Parce que tu complimentes\Nma capacité à appuyer sur un bouton.
+Dialogue: 0,0:07:20.82,0:07:22.92,Default,,0000,0000,0000,,Je te juge pas. C'est comme...
+Dialogue: 0,0:07:23.31,0:07:25.48,Default,,0000,0000,0000,,Je pourrais diriger General Motors,
+Dialogue: 0,0:07:25.61,0:07:28.73,Default,,0000,0000,0000,,mais pas réparer une voiture.\NL'un ne vaut pas mieux que l'autre.
+Dialogue: 0,0:07:29.02,0:07:29.92,Default,,0000,0000,0000,,Vraiment ?
+Dialogue: 0,0:07:30.05,0:07:32.78,Default,,0000,0000,0000,,Parce qu'on dirait\Nque l'un vaut mieux que l'autre.
+Dialogue: 0,0:07:33.62,0:07:35.07,Default,,0000,0000,0000,,Qu'est-ce qui te prend ?
+Dialogue: 0,0:07:35.24,0:07:36.83,Default,,0000,0000,0000,,Écoutez, écoutez !
+Dialogue: 0,0:07:36.96,0:07:38.95,Default,,0000,0000,0000,,Quelqu'un doit faire cette copie !
+Dialogue: 0,0:07:39.08,0:07:41.88,Default,,0000,0000,0000,,Ce sera pas moi, je suis le patron.\NCompris ?
+Dialogue: 0,0:07:42.59,0:07:45.04,Default,,0000,0000,0000,,- Je fais des originaux.\N- Oui, moi aussi.
+Dialogue: 0,0:07:45.16,0:07:46.62,Default,,0000,0000,0000,,- La ferme.\N- Arrêtez !
+Dialogue: 0,0:07:46.75,0:07:48.42,Default,,0000,0000,0000,,Terminées, les chamailleries !
+Dialogue: 0,0:07:49.03,0:07:50.03,Default,,0000,0000,0000,,Vraiment ?
+Dialogue: 0,0:07:51.53,0:07:53.13,Default,,0000,0000,0000,,{\i1}Rien de neuf. Et toi ?{\i0}
+Dialogue: 0,0:07:54.03,0:07:56.23,Default,,0000,0000,0000,,{\i1}Non, ça va. Je suis aux toilettes.{\i0}
+Dialogue: 0,0:07:56.86,0:07:59.07,Default,,0000,0000,0000,,{\i1}T'as regardé {\i0}Damages{\i1}, cette année ?{\i0}
+Dialogue: 0,0:07:59.19,0:08:00.49,Default,,0000,0000,0000,,{\i1}C'est trop bien.{\i0}
+Dialogue: 0,0:08:01.39,0:08:04.69,Default,,0000,0000,0000,,{\i1}Tu dois regarder.\NC'est aussi bon qu'une série HBO.{\i0}
+Dialogue: 0,0:08:07.41,0:08:09.83,Default,,0000,0000,0000,,{\i1}Est-ce que le bleu\Nva avec le bronzage ?{\i0}
+Dialogue: 0,0:08:09.96,0:08:11.38,Default,,0000,0000,0000,,Faites cette copie.
+Dialogue: 0,0:08:11.50,0:08:13.05,Default,,0000,0000,0000,,{\i1}J'ai une chemise bleue.{\i0}
+Dialogue: 0,0:08:13.18,0:08:16.33,Default,,0000,0000,0000,,{\i1}Je porte rarement des couleurs...\NMais je suis bien bronzé.{\i0}
+Dialogue: 0,0:08:16.45,0:08:19.04,Default,,0000,0000,0000,,ON RATE 100 % DES CHANCES\NQU'ON NE PREND PAS.
+Dialogue: 0,0:08:19.16,0:08:20.86,Default,,0000,0000,0000,,Faites cette copie, OK ?
+Dialogue: 0,0:08:32.63,0:08:33.83,Default,,0000,0000,0000,,Sérieusement ?
+Dialogue: 0,0:08:34.37,0:08:36.91,Default,,0000,0000,0000,,C'est ça la priorité,\Ndes photos à poil sur le bureau ?
+Dialogue: 0,0:08:37.03,0:08:38.76,Default,,0000,0000,0000,,C'est mon amie thaïlandaise,\NJasmine.
+Dialogue: 0,0:08:38.89,0:08:40.85,Default,,0000,0000,0000,,Je veux pas voir\Nses seins toute la journée.
+Dialogue: 0,0:08:41.02,0:08:43.97,Default,,0000,0000,0000,,Tu pourrais aussi être sexy\Nsi tu faisais des efforts.
+Dialogue: 0,0:08:44.21,0:08:46.02,Default,,0000,0000,0000,,Comme ? Me teindre en blonde ?
+Dialogue: 0,0:08:46.19,0:08:48.76,Default,,0000,0000,0000,,- C'est à cause du soleil.\N- J'en doute pas.
+Dialogue: 0,0:08:48.88,0:08:51.66,Default,,0000,0000,0000,,Ils me tapent sur les nerfs, maman.\NTous les deux.
+Dialogue: 0,0:08:52.11,0:08:55.53,Default,,0000,0000,0000,,R se croie trop bien pour ici,\Net P est pas aussi drôle sans Jim.
+Dialogue: 0,0:08:56.03,0:08:58.87,Default,,0000,0000,0000,,- Michael, on t'entend.\N- Je suis au téléphone.
+Dialogue: 0,0:08:59.85,0:09:01.41,Default,,0000,0000,0000,,Je vais devoir te rappeler.
+Dialogue: 0,0:09:01.58,0:09:02.83,Default,,0000,0000,0000,,P se la joue S.
+Dialogue: 0,0:09:04.21,0:09:06.87,Default,,0000,0000,0000,,- À mon tour.\N- Non, arrête, rends-le-moi.
+Dialogue: 0,0:09:07.00,0:09:08.92,Default,,0000,0000,0000,,Te le rendre ? Pour quoi faire ?
+Dialogue: 0,0:09:09.05,0:09:11.38,Default,,0000,0000,0000,,- Un échéancier.\N- Un échéancier. C'est ça.
+Dialogue: 0,0:09:11.55,0:09:13.80,Default,,0000,0000,0000,,- Fais la copie, secrétaire.\N- À mon tour !
+Dialogue: 0,0:09:13.97,0:09:17.60,Default,,0000,0000,0000,,On dit toujours que c'est une erreur\Nd'engager ses amis.
+Dialogue: 0,0:09:17.72,0:09:21.23,Default,,0000,0000,0000,,Et c'est vrai.\NAlors, j'ai engagé mes meilleurs amis.
+Dialogue: 0,0:09:21.78,0:09:23.63,Default,,0000,0000,0000,,Et c'est ça ma récompense ?
+Dialogue: 0,0:09:25.42,0:09:26.57,Default,,0000,0000,0000,,Hé, mon pote,
+Dialogue: 0,0:09:26.84,0:09:28.27,Default,,0000,0000,0000,,qu'est-ce que tu fais ?
+Dialogue: 0,0:09:28.77,0:09:30.07,Default,,0000,0000,0000,,Pas grand-chose.
+Dialogue: 0,0:09:31.48,0:09:32.33,Default,,0000,0000,0000,,Écoute.
+Dialogue: 0,0:09:32.61,0:09:34.61,Default,,0000,0000,0000,,Quand je t'ai vu parler à Erin,
+Dialogue: 0,0:09:34.73,0:09:38.05,Default,,0000,0000,0000,,j'ai remarqué tes pupilles dilatées\Net ta peau rougie.
+Dialogue: 0,0:09:38.17,0:09:41.82,Default,,0000,0000,0000,,Et j'imagine qu'un peu de sang\Na afflué dans ton pénis.
+Dialogue: 0,0:09:46.29,0:09:49.92,Default,,0000,0000,0000,,J'ai eu la même réaction.\NAlors qu'est-ce qu'on fait ?
+Dialogue: 0,0:09:51.62,0:09:53.57,Default,,0000,0000,0000,,La dernière chose que je veux,
+Dialogue: 0,0:09:53.72,0:09:56.13,Default,,0000,0000,0000,,c'est marcher sur tes platebandes.
+Dialogue: 0,0:09:56.30,0:09:58.02,Default,,0000,0000,0000,,Et moi, les tiennes.
+Dialogue: 0,0:09:58.15,0:10:00.05,Default,,0000,0000,0000,,Alors, je capitule.
+Dialogue: 0,0:10:00.22,0:10:01.72,Default,,0000,0000,0000,,Non, c'est ridicule.
+Dialogue: 0,0:10:02.57,0:10:03.99,Default,,0000,0000,0000,,Tu es arrivé avant moi.
+Dialogue: 0,0:10:04.12,0:10:07.43,Default,,0000,0000,0000,,Et je suis meilleur coéquipier\Nque petit ami, alors...
+Dialogue: 0,0:10:07.60,0:10:10.10,Default,,0000,0000,0000,,Je veux juste qu'on traine ensemble.
+Dialogue: 0,0:10:14.98,0:10:15.98,Default,,0000,0000,0000,,Écoutez...
+Dialogue: 0,0:10:21.21,0:10:22.32,Default,,0000,0000,0000,,J'ai remarqué
+Dialogue: 0,0:10:23.60,0:10:25.27,Default,,0000,0000,0000,,que certaines personnes ici
+Dialogue: 0,0:10:25.40,0:10:28.08,Default,,0000,0000,0000,,ne s'entendaient pas\Navec d'autres personnes ici.
+Dialogue: 0,0:10:28.86,0:10:31.11,Default,,0000,0000,0000,,Et je crois avoir compris pourquoi.
+Dialogue: 0,0:10:31.99,0:10:33.07,Default,,0000,0000,0000,,Ce bureau
+Dialogue: 0,0:10:33.27,0:10:34.54,Default,,0000,0000,0000,,est trop petit.
+Dialogue: 0,0:10:34.71,0:10:35.71,Default,,0000,0000,0000,,C'est certain.
+Dialogue: 0,0:10:36.38,0:10:37.38,Default,,0000,0000,0000,,Il y a...
+Dialogue: 0,0:10:37.98,0:10:39.72,Default,,0000,0000,0000,,4 coins dans cette pièce.
+Dialogue: 0,0:10:40.60,0:10:41.65,Default,,0000,0000,0000,,Chaque coin
+Dialogue: 0,0:10:41.97,0:10:44.91,Default,,0000,0000,0000,,pourrait être l'espace intime\Nde chacun d'entre vous.
+Dialogue: 0,0:10:45.04,0:10:47.64,Default,,0000,0000,0000,,Choisissez votre coin\Net personnalisez-le.
+Dialogue: 0,0:10:48.30,0:10:51.51,Default,,0000,0000,0000,,- On pourrait travailler chez nous.\N- Ou tu pourrais virer l'un de nous.
+Dialogue: 0,0:10:51.64,0:10:52.93,Default,,0000,0000,0000,,La moins diplômée.
+Dialogue: 0,0:10:53.32,0:10:55.05,Default,,0000,0000,0000,,Merci des suggestions.
+Dialogue: 0,0:10:55.18,0:10:57.52,Default,,0000,0000,0000,,Mais j'aimerais\Nque vous essayiez cette idée.
+Dialogue: 0,0:10:57.64,0:11:00.36,Default,,0000,0000,0000,,Un, deux, trois,\Nqu'est-ce qu'on va faire ?
+Dialogue: 0,0:11:01.26,0:11:03.95,Default,,0000,0000,0000,,- Choisir un coin.\N- Non, il fallait dire "Tout déchirer".
+Dialogue: 0,0:11:04.12,0:11:05.58,Default,,0000,0000,0000,,Comment on saurait ça ?
+Dialogue: 0,0:11:06.33,0:11:09.12,Default,,0000,0000,0000,,Mec, tu sais ce que\Nc'est qu'un récapitulatif ?
+Dialogue: 0,0:11:10.92,0:11:12.77,Default,,0000,0000,0000,,Utilise-le dans une phrase.
+Dialogue: 0,0:11:13.29,0:11:15.21,Default,,0000,0000,0000,,Tu peux me faire ce récapitulatif ?
+Dialogue: 0,0:11:15.67,0:11:16.63,Default,,0000,0000,0000,,Une autre.
+Dialogue: 0,0:11:17.14,0:11:18.92,Default,,0000,0000,0000,,Ce récapitulatif\Na intérêt à être bon.
+Dialogue: 0,0:11:19.09,0:11:21.30,Default,,0000,0000,0000,,Je sais pas.\NMais ça a l'air important.
+Dialogue: 0,0:11:21.47,0:11:23.47,Default,,0000,0000,0000,,Charles m'a demandé\Ncelui de mes clients.
+Dialogue: 0,0:11:23.64,0:11:25.35,Default,,0000,0000,0000,,Pourquoi ne pas lui demander...
+Dialogue: 0,0:11:25.51,0:11:27.18,Default,,0000,0000,0000,,Je peux pas. Ça fait des heures.
+Dialogue: 0,0:11:27.35,0:11:30.56,Default,,0000,0000,0000,,- Tu as fait quoi, tout ce temps ?\N- Essaye une autre phrase.
+Dialogue: 0,0:11:31.90,0:11:33.71,Default,,0000,0000,0000,,C'était de la folie, hier soir.
+Dialogue: 0,0:11:33.84,0:11:34.69,Default,,0000,0000,0000,,Jojo...
+Dialogue: 0,0:11:35.92,0:11:38.76,Default,,0000,0000,0000,,Il a fait un frein à main\Nsur le parking, devant un flic.
+Dialogue: 0,0:11:38.89,0:11:41.66,Default,,0000,0000,0000,,Et il a crié, "Le flic, t'aimes ça ?".\NEt on s'est barrés.
+Dialogue: 0,0:11:42.10,0:11:43.76,Default,,0000,0000,0000,,Il est resté planté là.
+Dialogue: 0,0:11:45.09,0:11:46.86,Default,,0000,0000,0000,,Je veux ce nouveau téléphone.
+Dialogue: 0,0:11:47.43,0:11:48.58,Default,,0000,0000,0000,,Non, l'autre.
+Dialogue: 0,0:11:49.51,0:11:52.41,Default,,0000,0000,0000,,Non, l'autre.\NTu vois duquel je parle, celui...
+Dialogue: 0,0:11:53.39,0:11:56.49,Default,,0000,0000,0000,,Celui avec le super navigateur.\NNon, pas celui-là.
+Dialogue: 0,0:11:57.44,0:11:58.60,Default,,0000,0000,0000,,C'est mon coin.
+Dialogue: 0,0:11:59.52,0:12:01.25,Default,,0000,0000,0000,,Je croyais que c'était celui-là.
+Dialogue: 0,0:12:01.37,0:12:03.24,Default,,0000,0000,0000,,Non, là, c'est où je travaille.
+Dialogue: 0,0:12:03.64,0:12:05.97,Default,,0000,0000,0000,,Je peux pas me détendre\Nlà où je travaille.
+Dialogue: 0,0:12:06.59,0:12:08.89,Default,,0000,0000,0000,,Alors, le mien,\Nc'est celui avec le copieur ?
+Dialogue: 0,0:12:10.46,0:12:12.39,Default,,0000,0000,0000,,Je ne fais pas les règles.
+Dialogue: 0,0:12:17.35,0:12:19.95,Default,,0000,0000,0000,,J'aimerais pouvoir\Ntéléphoner avec mon iPod.
+Dialogue: 0,0:12:20.07,0:12:22.77,Default,,0000,0000,0000,,Non, je veux pas un iPhone.\NJe sais ce que c'est.
+Dialogue: 0,0:12:29.48,0:12:31.64,Default,,0000,0000,0000,,Vous avez commencé\Nce récapitulatif ?
+Dialogue: 0,0:12:34.57,0:12:36.69,Default,,0000,0000,0000,,Oui, je fais juste une pause.
+Dialogue: 0,0:12:36.81,0:12:38.66,Default,,0000,0000,0000,,Mais je vais m'y remettre.
+Dialogue: 0,0:12:38.79,0:12:39.99,Default,,0000,0000,0000,,Immédiatement.
+Dialogue: 0,0:12:40.55,0:12:43.16,Default,,0000,0000,0000,,Vous en auriez un\Nauquel je pourrais jeter un œil ?
+Dialogue: 0,0:12:43.29,0:12:45.47,Default,,0000,0000,0000,,Pour savoir\Nà quoi vous vous attendez...
+Dialogue: 0,0:12:45.64,0:12:47.55,Default,,0000,0000,0000,,- Faites simple.\N- C'est ce que je fais.
+Dialogue: 0,0:12:47.68,0:12:49.89,Default,,0000,0000,0000,,Mais je travaille dur dessus,\Nvraiment dur.
+Dialogue: 0,0:12:50.06,0:12:51.81,Default,,0000,0000,0000,,Travailler dur ? Sur ça ?
+Dialogue: 0,0:12:52.69,0:12:55.64,Default,,0000,0000,0000,,Non... Pas trop dur.\NPas plus que nécessaire.
+Dialogue: 0,0:12:56.89,0:12:59.24,Default,,0000,0000,0000,,Pourquoi travailler\Nplus que nécessaire ?
+Dialogue: 0,0:12:59.89,0:13:00.98,Default,,0000,0000,0000,,Non, je...
+Dialogue: 0,0:13:07.38,0:13:09.53,Default,,0000,0000,0000,,- Je peux vous aider ?\N- Non, merci.
+Dialogue: 0,0:13:10.24,0:13:11.84,Default,,0000,0000,0000,,Je viens voir Charles.
+Dialogue: 0,0:13:14.83,0:13:18.19,Default,,0000,0000,0000,,Je sais que vous êtes occupé,\Nalors je vais aller droit au but.
+Dialogue: 0,0:13:18.31,0:13:19.71,Default,,0000,0000,0000,,Je voudrais revenir.
+Dialogue: 0,0:13:19.88,0:13:22.67,Default,,0000,0000,0000,,Je ne sais pas quoi vous dire,\Nle poste est pris.
+Dialogue: 0,0:13:25.37,0:13:28.09,Default,,0000,0000,0000,,Et en tant que vendeuse ?\NJ'ai de l'expérience, maintenant.
+Dialogue: 0,0:13:29.42,0:13:31.17,Default,,0000,0000,0000,,Ou être votre assistante.
+Dialogue: 0,0:13:31.54,0:13:34.64,Default,,0000,0000,0000,,Gérer votre courrier, vos rendez-vous.\NJe connais tout le monde.
+Dialogue: 0,0:13:36.14,0:13:37.14,Default,,0000,0000,0000,,Commis ?
+Dialogue: 0,0:13:40.75,0:13:42.46,Default,,0000,0000,0000,,C'était un plaisir de vous parler.
+Dialogue: 0,0:13:42.58,0:13:44.46,Default,,0000,0000,0000,,On se croisera dans l'immeuble.
+Dialogue: 0,0:13:45.63,0:13:48.48,Default,,0000,0000,0000,,Je vais rester un peu,\Nsi ça vous dérange pas.
+Dialogue: 0,0:13:50.32,0:13:51.92,Default,,0000,0000,0000,,Ça sent tellement bon.
+Dialogue: 0,0:13:52.59,0:13:54.80,Default,,0000,0000,0000,,Je ne me souvenais pas\Nque ça sentait si bon.
+Dialogue: 0,0:13:55.87,0:13:58.16,Default,,0000,0000,0000,,Les chaises sont\Ntellement confortables.
+Dialogue: 0,0:14:04.80,0:14:06.89,Default,,0000,0000,0000,,Stanley, Phyllis, entrez !
+Dialogue: 0,0:14:07.37,0:14:09.51,Default,,0000,0000,0000,,Bienvenue !\NLaissez-moi vous faire visiter.
+Dialogue: 0,0:14:09.79,0:14:12.09,Default,,0000,0000,0000,,J'ai fait le tour.\NT'as besoin d'en voir plus ?
+Dialogue: 0,0:14:12.21,0:14:13.56,Default,,0000,0000,0000,,C'est très mignon.
+Dialogue: 0,0:14:13.99,0:14:15.39,Default,,0000,0000,0000,,Vous vous souvenez de Ryan.
+Dialogue: 0,0:14:18.02,0:14:20.22,Default,,0000,0000,0000,,Et Pam doit être dans les parages.
+Dialogue: 0,0:14:20.52,0:14:22.44,Default,,0000,0000,0000,,Là-haut, elle parle avec Charles.
+Dialogue: 0,0:14:23.74,0:14:25.61,Default,,0000,0000,0000,,- À propos de quoi ?\N- Je sais pas.
+Dialogue: 0,0:14:27.43,0:14:29.18,Default,,0000,0000,0000,,On reste jusqu'à 17 h ?
+Dialogue: 0,0:14:33.45,0:14:35.45,Default,,0000,0000,0000,,Peut-être que cette société...
+Dialogue: 0,0:14:35.71,0:14:37.41,Default,,0000,0000,0000,,était une énorme erreur.
+Dialogue: 0,0:14:38.11,0:14:39.51,Default,,0000,0000,0000,,Je devrais partir.
+Dialogue: 0,0:14:40.23,0:14:42.25,Default,,0000,0000,0000,,Je devrais m'en aller et...
+Dialogue: 0,0:14:42.70,0:14:45.20,Default,,0000,0000,0000,,monter ma propre société.\NIls verraient !
+Dialogue: 0,0:14:49.65,0:14:51.10,Default,,0000,0000,0000,,Pancakes gratuits !
+Dialogue: 0,0:14:51.81,0:14:53.35,Default,,0000,0000,0000,,Ils sont délicieux.
+Dialogue: 0,0:14:53.48,0:14:55.00,Default,,0000,0000,0000,,Ils sont nutritifs.
+Dialogue: 0,0:14:55.90,0:14:57.52,Default,,0000,0000,0000,,Ils sont gratuits.
+Dialogue: 0,0:14:58.04,0:14:59.88,Default,,0000,0000,0000,,Jeune homme, un pancake ?
+Dialogue: 0,0:15:00.00,0:15:02.23,Default,,0000,0000,0000,,J'écris un texto.\NJe veux pas me salir les mains.
+Dialogue: 0,0:15:02.40,0:15:04.81,Default,,0000,0000,0000,,Ça suffit avec les textos. Allez.
+Dialogue: 0,0:15:05.32,0:15:07.85,Default,,0000,0000,0000,,Rentre ta chemise.\NTu représentes la société.
+Dialogue: 0,0:15:13.41,0:15:15.37,Default,,0000,0000,0000,,Tu avais disparu. T'étais où ?
+Dialogue: 0,0:15:15.54,0:15:17.80,Default,,0000,0000,0000,,Je devais m'occuper\Nde quelques trucs.
+Dialogue: 0,0:15:17.93,0:15:20.00,Default,,0000,0000,0000,,Je ne veux pas être plus précise.
+Dialogue: 0,0:15:20.27,0:15:22.12,Default,,0000,0000,0000,,Au moins,\Ntu restes honnête avec moi.
+Dialogue: 0,0:15:27.23,0:15:29.03,Default,,0000,0000,0000,,Voilà le récapitulatif.
+Dialogue: 0,0:15:29.16,0:15:31.57,Default,,0000,0000,0000,,J'ai peut-être été au-delà\Nde ce que vous vouliez.
+Dialogue: 0,0:15:31.69,0:15:33.84,Default,,0000,0000,0000,,Faxez-le\Nà toute la liste de diffusion.
+Dialogue: 0,0:15:35.44,0:15:36.44,Default,,0000,0000,0000,,D'accord.
+Dialogue: 0,0:15:37.29,0:15:39.27,Default,,0000,0000,0000,,- Tu vérifies pas ?\N- C'est nécessaire ?
+Dialogue: 0,0:15:41.06,0:15:42.62,Default,,0000,0000,0000,,Non, je voulais juste...
+Dialogue: 0,0:15:43.61,0:15:44.66,Default,,0000,0000,0000,,m'assurer...
+Dialogue: 0,0:15:45.80,0:15:47.27,Default,,0000,0000,0000,,de la mise en page.
+Dialogue: 0,0:15:48.47,0:15:50.45,Default,,0000,0000,0000,,Donc, cette liste de diffusion...
+Dialogue: 0,0:15:50.86,0:15:52.68,Default,,0000,0000,0000,,- sera ma...\N- Quoi ?
+Dialogue: 0,0:15:53.03,0:15:55.24,Default,,0000,0000,0000,,La mienne.\NJe vais utiliser la mienne.
+Dialogue: 0,0:15:58.31,0:15:59.31,Default,,0000,0000,0000,,Je faxe...
+Dialogue: 0,0:16:00.20,0:16:01.53,Default,,0000,0000,0000,,un récapitulatif...
+Dialogue: 0,0:16:01.65,0:16:02.65,Default,,0000,0000,0000,,à mon père.
+Dialogue: 0,0:16:03.54,0:16:06.64,Default,,0000,0000,0000,,On est une petite société,\Nmais on a de l'ambition.
+Dialogue: 0,0:16:07.81,0:16:09.26,Default,,0000,0000,0000,,Vous avez une carte ?
+Dialogue: 0,0:16:10.45,0:16:13.31,Default,,0000,0000,0000,,Non, je n'en ai pas,\Nmais je vais faire encore mieux.
+Dialogue: 0,0:16:13.76,0:16:15.46,Default,,0000,0000,0000,,Un petit bout de papier.
+Dialogue: 0,0:16:19.64,0:16:20.73,Default,,0000,0000,0000,,C'est immangeable.
+Dialogue: 0,0:16:20.86,0:16:23.56,Default,,0000,0000,0000,,Ils doivent être ronds\Npour cuire uniformément.
+Dialogue: 0,0:16:23.73,0:16:26.54,Default,,0000,0000,0000,,- Ils sont en forme de papier.\N- Je n'en veux même pas.
+Dialogue: 0,0:16:30.05,0:16:31.53,Default,,0000,0000,0000,,Je les prends pour mes gosses.
+Dialogue: 0,0:16:46.70,0:16:48.40,Default,,0000,0000,0000,,Désolé. J'aime cette chanson.
+Dialogue: 0,0:16:48.80,0:16:50.84,Default,,0000,0000,0000,,- Vous êtes bon.\N- Tu es bonne.
+Dialogue: 0,0:16:51.56,0:16:53.73,Default,,0000,0000,0000,,C'était bien, mais un peu...
+Dialogue: 0,0:16:54.13,0:16:56.76,Default,,0000,0000,0000,,brouillon.\NMais c'est normal, c'est dur.
+Dialogue: 0,0:16:56.93,0:16:58.30,Default,,0000,0000,0000,,Ça m'a pris du temps aussi.
+Dialogue: 0,0:17:07.40,0:17:09.92,Default,,0000,0000,0000,,Pardon ?\NTu étais là ? Je suis gêné.
+Dialogue: 0,0:17:10.32,0:17:12.78,Default,,0000,0000,0000,,- Je suis complètement rouillé.\N- Tu fais des progrès.
+Dialogue: 0,0:17:12.91,0:17:14.44,Default,,0000,0000,0000,,Très réussi techniquement,
+Dialogue: 0,0:17:14.61,0:17:17.61,Default,,0000,0000,0000,,- mais il n'y a pas d'âme, ni de cœur.\N- Ah bon ?
+Dialogue: 0,0:17:30.64,0:17:32.39,Default,,0000,0000,0000,,On chante ensemble ?
+Dialogue: 0,0:17:40.89,0:17:41.97,Default,,0000,0000,0000,,En allemand !
+Dialogue: 0,0:18:07.67,0:18:08.87,Default,,0000,0000,0000,,Envoie la sauce !
+Dialogue: 0,0:18:18.88,0:18:20.59,Default,,0000,0000,0000,,Faut que vous arrêtiez !
+Dialogue: 0,0:18:32.00,0:18:33.35,Default,,0000,0000,0000,,J'ai fait un rêve
+Dialogue: 0,0:18:33.89,0:18:36.74,Default,,0000,0000,0000,,où je mangeais un sandwich au thon\Net au beurre de cacahouètes.
+Dialogue: 0,0:18:38.43,0:18:40.43,Default,,0000,0000,0000,,Et vous savez quoi ?\NC'était délicieux.
+Dialogue: 0,0:18:40.81,0:18:42.31,Default,,0000,0000,0000,,Alors, le lendemain,
+Dialogue: 0,0:18:42.53,0:18:44.23,Default,,0000,0000,0000,,j'ai décidé d'essayer.
+Dialogue: 0,0:18:45.13,0:18:47.12,Default,,0000,0000,0000,,Et en vrai, c'est dégueulasse.
+Dialogue: 0,0:18:48.63,0:18:50.63,Default,,0000,0000,0000,,C'est un sandwich dégueulasse.
+Dialogue: 0,0:18:51.41,0:18:53.86,Default,,0000,0000,0000,,Et la raison pour laquelle\Nje vous raconte ça...
+Dialogue: 0,0:18:54.62,0:18:55.63,Default,,0000,0000,0000,,Réponds.
+Dialogue: 0,0:18:58.65,0:18:59.55,Default,,0000,0000,0000,,Dunder...
+Dialogue: 0,0:18:59.67,0:19:01.96,Default,,0000,0000,0000,,Michael Scott Paper Company.\NPam à l'appareil.
+Dialogue: 0,0:19:03.33,0:19:06.28,Default,,0000,0000,0000,,Bonjour, Russel du déjeuner.\NComment allez-vous ?
+Dialogue: 0,0:19:08.31,0:19:10.14,Default,,0000,0000,0000,,On aimerait aussi\Ntravailler avec vous.
+Dialogue: 0,0:19:11.01,0:19:12.71,Default,,0000,0000,0000,,Comment concrétiser ça ?
+Dialogue: 0,0:19:14.68,0:19:16.19,Default,,0000,0000,0000,,Parle de la livraison gratuite.
+Dialogue: 0,0:19:16.36,0:19:18.78,Default,,0000,0000,0000,,- On a déjà offert les livraisons.\N- Ils en savent rien.
+Dialogue: 0,0:19:20.16,0:19:23.91,Default,,0000,0000,0000,,Je peux vous offrir la livraison\Npour toute commande passée aujourd'hui.
+Dialogue: 0,0:19:27.25,0:19:28.16,Default,,0000,0000,0000,,20 cartons ?
+Dialogue: 0,0:19:28.33,0:19:30.34,Default,,0000,0000,0000,,Je peux faire... un instant.
+Dialogue: 0,0:19:31.45,0:19:34.21,Default,,0000,0000,0000,,Pour 20 cartons,\Nje peux vous faire l'unité à 43 $.
+Dialogue: 0,0:19:36.37,0:19:37.37,Default,,0000,0000,0000,,Très bien.
+Dialogue: 0,0:19:38.13,0:19:39.13,Default,,0000,0000,0000,,Écris-le.
+Dialogue: 0,0:19:39.59,0:19:41.47,Default,,0000,0000,0000,,- Donne-lui une garantie.\N- De quoi ?
+Dialogue: 0,0:19:41.63,0:19:44.47,Default,,0000,0000,0000,,- Dis juste le mot.\N- Et je vous garantis...
+Dialogue: 0,0:19:45.17,0:19:47.07,Default,,0000,0000,0000,,que vous serez satisfait.
+Dialogue: 0,0:19:47.87,0:19:51.05,Default,,0000,0000,0000,,Car votre satisfaction\Nest notre garantie.
+Dialogue: 0,0:19:51.36,0:19:52.80,Default,,0000,0000,0000,,Nous la garantissons.
+Dialogue: 0,0:19:53.18,0:19:55.72,Default,,0000,0000,0000,,Nous sommes aussi impatients\Nde travailler avec vous.
+Dialogue: 0,0:19:57.59,0:19:59.74,Default,,0000,0000,0000,,- J'ai conclu une vente !\N- T'as réussi !
+Dialogue: 0,0:20:00.64,0:20:02.36,Default,,0000,0000,0000,,- On a réussi.\N- Elle a réussi.
+Dialogue: 0,0:20:05.20,0:20:08.35,Default,,0000,0000,0000,,Qui aurait imaginé\Nque ce qui sauverait cette société
+Dialogue: 0,0:20:08.48,0:20:10.95,Default,,0000,0000,0000,,serait le travail ?\NEt des pancakes.
+Dialogue: 0,0:20:11.98,0:20:12.79,Default,,0000,0000,0000,,Au final,
+Dialogue: 0,0:20:13.06,0:20:15.76,Default,,0000,0000,0000,,cette journée a connu\Ndes hauts et des bas.
+Dialogue: 0,0:20:15.98,0:20:18.73,Default,,0000,0000,0000,,Je réalise\Nqu'on a pas le plus grand bureau.
+Dialogue: 0,0:20:19.03,0:20:20.31,Default,,0000,0000,0000,,Ce qui est surprenant
+Dialogue: 0,0:20:20.44,0:20:23.08,Default,,0000,0000,0000,,parce que 150 000 cm²,\Nça parait grand...
+Dialogue: 0,0:20:24.25,0:20:26.72,Default,,0000,0000,0000,,Mais,\Non a les gens les plus généreux.
+Dialogue: 0,0:20:27.07,0:20:29.49,Default,,0000,0000,0000,,Et je pense que,\Npour une petite société,
+Dialogue: 0,0:20:29.62,0:20:30.87,Default,,0000,0000,0000,,c'est ce qui...
+Dialogue: 0,0:20:32.43,0:20:34.24,Default,,0000,0000,0000,,Quelqu'un est allé aux toilettes.
+Dialogue: 0,0:20:37.42,0:20:39.23,Default,,0000,0000,0000,,C'est ce qui importe vraiment.
+Dialogue: 0,0:20:41.82,0:20:44.94,Default,,0000,0000,0000,,Toutes les chansons sont mieux\Na cappela, cite-m'en une.
+Dialogue: 0,0:20:45.06,0:20:47.76,Default,,0000,0000,0000,,- {\i1}Cherry Pie{\i0}. Warrant.\N- Meilleure a cappela.
+Dialogue: 0,0:20:47.89,0:20:49.60,Default,,0000,0000,0000,,- Vraiment ?\N- Oui. Une autre.
+Dialogue: 0,0:20:49.73,0:20:52.68,Default,,0000,0000,0000,,- {\i1}Enter Sandman{\i0}. Metallica.\N- Meilleure a capella.
+Dialogue: 0,0:20:53.17,0:20:54.83,Default,,0000,0000,0000,,{\i1}Rebel Yell{\i0}. Billy Idol.
+Dialogue: 0,0:20:55.49,0:20:58.04,Default,,0000,0000,0000,,- Bien meilleure a cappela.\N- Vraiment ?

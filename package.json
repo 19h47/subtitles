@@ -1,0 +1,43 @@
+{
+  "name": "subtitles",
+  "version": "1.0.0",
+  "description": "Subtitles",
+  "main": "index.js",
+  "scripts": {
+    "build-js": "browserify src/js/main.js > dist/js/bundle.js",
+    "watch-js": "watchify src/js/main.js -o dist/js/bundle.js -v",
+    "build-css": "node-sass --output-style compressed src/scss/main.scss dist/css/global.css",
+    "watch-css": "nodemon -e scss -x \"npm run build-css\"",
+    "build": "npm run build-js & npm run build-css",
+    "watch": "npm run watch-js & npm run watch-css",
+    "start": "npm run watch"
+  },
+  "author": "Jérémy Levron <levronjeremy@19h47.fr> (http://19h47.fr)",
+  "license": "ISC",
+  "devDependencies": {
+    "browserify": "^14.1.0",
+    "browserify-shim": "^3.8.13",
+    "brfs": "^1.4.3",
+    "node-sass": "^4.5.0",
+    "nodemon": "^1.11.0",
+    "watchify": "^3.9.0"
+  },
+  "browserify": {
+    "transform": [
+      "browserify-shim",
+      "brfs"
+    ]
+  },
+  "browserify-shim": {
+    "jquery": "global:$"
+  },
+  "dependencies": {
+    "bootstrap-sass": "^3.3.7",
+    "dom-classes": "^1.0.0",
+    "dom-select": "^1.1.1",
+    "subtitles-parser": "0.0.2"
+  },
+  "keywords": [
+    "anime.js"
+  ]
+}

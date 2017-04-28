@@ -1,0 +1,1700 @@
+1
+00:00:00,658 --> 00:00:04,325
+Il est 4 h 30 du matin.
+Savez-vous où sont vos enfants ?
+
+2
+00:00:04,450 --> 00:00:07,050
+Si vous êtes les parents de Ryan,
+de Pam ou les miens,
+
+3
+00:00:07,175 --> 00:00:09,717
+vous le savez.
+Ils seront dans ce van.
+
+4
+00:00:10,496 --> 00:00:11,496
+Avec moi.
+
+5
+00:00:11,621 --> 00:00:13,721
+Qui suis-je ?
+Rien à craindre.
+
+6
+00:00:13,993 --> 00:00:17,093
+Je suis juste un mec de 44 ans
+qui livre du papier.
+
+7
+00:00:20,486 --> 00:00:22,295
+C'est l'heure des croissants !
+
+8
+00:00:27,098 --> 00:00:28,098
+Allez !
+
+9
+00:00:30,322 --> 00:00:32,172
+Promis, je le referai plus.
+
+10
+00:00:32,651 --> 00:00:33,451
+Allez.
+
+11
+00:00:37,617 --> 00:00:38,618
+Refusé !
+
+12
+00:00:42,162 --> 00:00:45,133
+Depuis quelques semaines,
+on fait des livraisons à 5 h.
+
+13
+00:00:46,550 --> 00:00:50,454
+Depuis que je suis clean,
+il y a un truc dans l'air matinal...
+
+14
+00:00:50,579 --> 00:00:52,629
+qui me donne vraiment la nausée.
+
+15
+00:01:00,508 --> 00:01:02,373
+C'est l'heure des croissants !
+
+16
+00:01:04,869 --> 00:01:06,428
+Patrouille de la gaule !
+
+17
+00:01:06,884 --> 00:01:08,321
+Arrêtez cet homme !
+
+18
+00:01:08,938 --> 00:01:10,838
+Tes croissants sont déments !
+
+19
+00:01:14,713 --> 00:01:16,553
+On a eu le van d'occasion.
+
+20
+00:01:16,988 --> 00:01:19,890
+On pense que c'est écrit
+"Église Alléluia de Scranton"
+
+21
+00:01:20,015 --> 00:01:21,015
+en coréen.
+
+22
+00:01:21,796 --> 00:01:25,223
+C'était ça ou un vieux bus d'école
+avec un hibou nichant dedans.
+
+23
+00:01:26,211 --> 00:01:28,712
+T'aurais pas apporté du café,
+par hasard ?
+
+24
+00:01:29,176 --> 00:01:31,275
+- Lait et sucre !
+- Génial.
+
+25
+00:01:31,400 --> 00:01:32,904
+Tu me sauves la vie.
+
+26
+00:01:36,201 --> 00:01:39,098
+- C'est juste du lait et du sucre ?
+- C'est ce que j'ai dit.
+
+27
+00:01:39,512 --> 00:01:41,201
+Tu bois ça tous les jours ?
+
+28
+00:01:41,801 --> 00:01:43,001
+Chaque matin.
+
+29
+00:01:45,022 --> 00:01:46,727
+On s'en sort bien.
+
+30
+00:01:47,089 --> 00:01:49,540
+Ça fait quelques semaines
+et on s'éclate !
+
+31
+00:01:52,554 --> 00:01:53,841
+Ça nous fait 20...
+
+32
+00:01:55,968 --> 00:01:57,483
+Excusez-moi ! Désolée.
+
+33
+00:01:57,837 --> 00:01:59,309
+Désolée, non. C'est...
+
+34
+00:01:59,555 --> 00:02:01,848
+C'est une société de papier,
+maintenant.
+
+35
+00:02:04,573 --> 00:02:06,273
+C'est pas pour l'église.
+
+36
+00:02:08,712 --> 00:02:11,172
+Sous-titres :
+- Feygnasse Team -
+
+37
+00:02:11,340 --> 00:02:14,216
+Adaptation VF :
+Jarick, Jaqpotjaq, Sk0r, Collioure
+
+38
+00:02:27,661 --> 00:02:29,231
+{\pos(315,230)}Épisode 5x22
+"Broke"
+
+39
+00:02:30,340 --> 00:02:32,432
+Qui s'occupe de Bans Pet Grooming ?
+
+40
+00:02:32,557 --> 00:02:35,264
+- C'est mon client.
+- Non, c'était ton client.
+
+41
+00:02:35,389 --> 00:02:38,533
+Ils viennent d'appeler, ils passent
+chez Michael Scott Paper Company.
+
+42
+00:02:39,013 --> 00:02:41,173
+{\pos(120,260)}Quelle honte, Jim.
+J'attendais mieux.
+
+43
+00:02:41,298 --> 00:02:43,079
+Le mois dernier, nous avons perdu
+
+44
+00:02:43,204 --> 00:02:45,414
+{\pos(110,260)}10 gros clients
+pour Michael Scott.
+
+45
+00:02:45,582 --> 00:02:47,729
+{\pos(110,260)}Que peut-on faire ?
+Ils cassent les prix.
+
+46
+00:02:47,854 --> 00:02:49,830
+{\pos(110,260)}Je veux pas d'excuses,
+mais des progrès.
+
+47
+00:02:49,955 --> 00:02:51,465
+C'est inacceptable.
+
+48
+00:02:52,005 --> 00:02:53,211
+{\pos(110,260)}Dites, patron.
+
+49
+00:02:53,336 --> 00:02:56,686
+{\pos(110,260)}Je tiens à le signaler,
+je suis là depuis moins longtemps
+
+50
+00:02:57,097 --> 00:02:59,386
+- qu'eux tous.
+- Pourquoi vous me dites ça ?
+
+51
+00:03:01,552 --> 00:03:03,999
+{\pos(110,260)}Pour un nouveau,
+la barre devrait être moins haute.
+
+52
+00:03:04,124 --> 00:03:06,394
+{\pos(110,260)}Vous voulez vraiment avoir dit ça ?
+
+53
+00:03:09,338 --> 00:03:11,388
+{\pos(110,260)}Je ne veux pas avoir dit ça.
+
+54
+00:03:13,193 --> 00:03:15,069
+Mais c'est important
+que vous le sachiez.
+
+55
+00:03:16,168 --> 00:03:19,031
+{\pos(110,260)}Je ne sais pas quoi faire
+pour les inspirer.
+
+56
+00:03:19,156 --> 00:03:21,515
+- C'est peut-être ma faute...
+- C'est pas votre faute.
+
+57
+00:03:21,640 --> 00:03:23,883
+{\pos(110,260)}Certains ne veulent pas
+être inspirés.
+
+58
+00:03:24,008 --> 00:03:25,408
+{\pos(110,260)}J'ai écrit un mémo
+
+59
+00:03:25,910 --> 00:03:29,291
+{\pos(110,260)}à tous les départements
+leur demandant d'économiser.
+
+60
+00:03:29,864 --> 00:03:30,914
+Mais, je...
+
+61
+00:03:31,905 --> 00:03:33,632
+{\pos(110,260)}J'ai eu votre mémo. Merci.
+
+62
+00:03:33,757 --> 00:03:36,871
+{\pos(192,205)}Je mets la pédale douce
+sur toutes les dépenses.
+
+63
+00:03:36,996 --> 00:03:38,467
+Ne gaspille pas, tu garderas.
+
+64
+00:03:40,100 --> 00:03:41,500
+Bien dit, Angela.
+
+65
+00:03:46,315 --> 00:03:47,915
+{\pos(110,260)}Déjà vu, déjà fait.
+
+66
+00:03:52,540 --> 00:03:54,692
+Ce qu'il nous faut ici,
+c'est des canapés.
+
+67
+00:03:55,685 --> 00:03:57,736
+{\pos(110,260)}On devrait penser
+à engager un livreur.
+
+68
+00:03:58,488 --> 00:04:01,198
+Tu sais ce que tu aimerais ?
+Qu'on construise un loft.
+
+69
+00:04:02,165 --> 00:04:03,765
+{\pos(110,260)}Pourquoi j'aimerais ça ?
+
+70
+00:04:04,534 --> 00:04:07,155
+{\pos(110,260)}- On peut s'offrir un livreur ?
+- Comme dans un dortoir.
+
+71
+00:04:07,280 --> 00:04:09,627
+{\pos(110,260)}Tu mets ton bureau dessous,
+avec le lit en haut.
+
+72
+00:04:09,752 --> 00:04:11,000
+Et tu dors en haut.
+
+73
+00:04:11,168 --> 00:04:14,003
+{\pos(192,225)}- Je sais ce qu'est un loft.
+- La plupart des dortoirs n'en ont pas.
+
+74
+00:04:14,420 --> 00:04:17,590
+- Si, dans les magazines.
+- Voyons le coût d'un livreur.
+
+75
+00:04:20,253 --> 00:04:21,703
+{\pos(110,260)}On devrait voir ça.
+
+76
+00:04:23,331 --> 00:04:25,181
+Ou alors, on choisit le loft.
+
+77
+00:04:29,064 --> 00:04:32,188
+Voudriez-vous dire à Charles
+que David est là ?
+
+78
+00:04:35,637 --> 00:04:37,526
+Nous vous attendions, David Wallace.
+
+79
+00:04:38,032 --> 00:04:40,357
+- Charles et moi vous attendions.
+- Le voilà !
+
+80
+00:04:40,482 --> 00:04:42,406
+Le voilà.
+Comment était le voyage ?
+
+81
+00:04:42,574 --> 00:04:45,701
+Mieux qu'un mois au Scranton Radisson,
+je suis sûr.
+
+82
+00:04:45,826 --> 00:04:47,584
+C'est pas si terrible.
+
+83
+00:04:47,709 --> 00:04:49,670
+Ces gens sont le sel de la terre.
+
+84
+00:04:49,795 --> 00:04:52,495
+C'est le meilleur moyen
+pour découvrir une société.
+
+85
+00:04:53,935 --> 00:04:55,745
+Je devrais vous remercier.
+
+86
+00:05:04,221 --> 00:05:06,447
+La salle de réunion est prête,
+on peut s'y mettre.
+
+87
+00:05:06,572 --> 00:05:08,405
+Je veux d'abord vous parler à tous.
+
+88
+00:05:08,530 --> 00:05:11,030
+Prenez votre temps.
+Stanley, soyez attentif.
+
+89
+00:05:11,228 --> 00:05:12,144
+Bonjour.
+
+90
+00:05:15,018 --> 00:05:16,357
+Ce n'est pas un secret...
+
+91
+00:05:18,953 --> 00:05:20,346
+Ce n'est pas un secret
+
+92
+00:05:20,750 --> 00:05:23,766
+que Michael Scott Paper nous as pris
+un bon paquet de nos clients.
+
+93
+00:05:23,891 --> 00:05:27,054
+Je suis là, je veux vous assurer
+que nous pensons,
+
+94
+00:05:27,179 --> 00:05:29,244
+que c'est juste temporaire. OK ?
+
+95
+00:05:29,503 --> 00:05:31,680
+Peut-être, mais je m'avance,
+
+96
+00:05:31,805 --> 00:05:35,334
+que si vous aviez répondu à Michael,
+nous ne perdrions pas de clients.
+
+97
+00:05:35,602 --> 00:05:38,379
+Je me suis posé la même question.
+On va s'y mettre.
+
+98
+00:05:38,547 --> 00:05:40,636
+On va régler ça.
+Soyez tranquilles.
+
+99
+00:05:40,761 --> 00:05:43,258
+- Jim, vous pouvez vous joindre à nous ?
+- Attendez.
+
+100
+00:05:43,426 --> 00:05:45,594
+Vous voyez,
+Dwight a été mon bras droit.
+
+101
+00:05:48,035 --> 00:05:50,168
+Je trouve ça extrêmement étonnant.
+
+102
+00:05:50,293 --> 00:05:51,980
+Il est prometteur.
+
+103
+00:05:52,477 --> 00:05:54,812
+Et Jim, je ne...
+Il a été décevant.
+
+104
+00:05:54,980 --> 00:05:56,374
+On prend les deux.
+
+105
+00:05:56,735 --> 00:05:59,062
+Dwight, entrez. Et Jim, aussi.
+
+106
+00:06:00,870 --> 00:06:02,403
+Suis-moi, second choix.
+
+107
+00:06:05,157 --> 00:06:07,157
+Combien peut-on payer un livreur ?
+
+108
+00:06:07,325 --> 00:06:10,524
+- Si ces chiffres sont corrects...
+- Ils le sont.
+
+109
+00:06:10,649 --> 00:06:12,579
+Alors, vous ne pouvez pas le payer.
+
+110
+00:06:14,328 --> 00:06:16,321
+Tentative ratée d'humour.
+
+111
+00:06:16,446 --> 00:06:17,835
+Un coup dans l'eau.
+
+112
+00:06:18,003 --> 00:06:19,586
+Vos prix sont trop bas.
+
+113
+00:06:19,754 --> 00:06:21,502
+Les plus bas de la ville.
+
+114
+00:06:21,627 --> 00:06:24,466
+Pourquoi pensez-vous que Staples
+et Dunder Mifflin ne s'alignent pas ?
+
+115
+00:06:24,893 --> 00:06:26,290
+L'appât du gain ?
+
+116
+00:06:26,415 --> 00:06:29,012
+Notre grille tarifaire est correcte.
+J'ai vérifié moi-même.
+
+117
+00:06:29,137 --> 00:06:31,515
+Avec le temps et plus de volume,
+on devient bénéficiaire.
+
+118
+00:06:31,683 --> 00:06:33,912
+Avec des coûts fixes, c'est exact.
+
+119
+00:06:34,037 --> 00:06:36,145
+Mais il faut utiliser
+des coûts variables.
+
+120
+00:06:36,313 --> 00:06:37,400
+OK, bien-sûr.
+
+121
+00:06:37,705 --> 00:06:39,118
+C'est ça. Donc...
+
+122
+00:06:39,481 --> 00:06:41,979
+Expliquez de quoi il s'agit,
+qu'ils puissent comp...
+
+123
+00:06:42,104 --> 00:06:44,290
+- Expliquez.
+- Expliquez ce que vous croyez.
+
+124
+00:06:44,415 --> 00:06:46,451
+- Expliquez.
+- En vendant plus,
+
+125
+00:06:46,576 --> 00:06:48,794
+la société grandit,
+mais les coûts aussi.
+
+126
+00:06:48,919 --> 00:06:50,705
+Par exemple, un livreur,
+
+127
+00:06:51,244 --> 00:06:52,618
+couverture sociale,
+
+128
+00:06:52,743 --> 00:06:53,912
+agrandissement.
+
+129
+00:06:54,037 --> 00:06:55,372
+Peu importe. Et donc ?
+
+130
+00:06:55,540 --> 00:06:58,459
+Avec ces prix, plus vous vendez,
+moins vous faites d'argent.
+
+131
+00:06:58,627 --> 00:07:01,420
+Nos prix sont la seule chose
+qui nous rende compétitifs.
+
+132
+00:07:01,588 --> 00:07:03,876
+En fait,
+ils vous sortent de la compétition.
+
+133
+00:07:05,166 --> 00:07:06,516
+Attendez, attendez.
+
+134
+00:07:06,968 --> 00:07:10,012
+Ty, je voudrais
+que vous vérifiez ces chiffres.
+
+135
+00:07:10,916 --> 00:07:14,391
+- C'est un programme. Il n'y rien à...
+- Vérifiez, s'il vous plaît.
+
+136
+00:07:16,573 --> 00:07:17,561
+Vérification...
+
+137
+00:07:19,019 --> 00:07:20,119
+Ça va mieux ?
+
+138
+00:07:44,288 --> 00:07:46,121
+Bonjour, Jerry. Michael Scott.
+
+139
+00:07:47,497 --> 00:07:49,405
+C'est légèrement gênant.
+
+140
+00:07:51,987 --> 00:07:53,637
+Je vais devoir
+
+141
+00:07:54,134 --> 00:07:56,145
+vous demander
+de me payer un peu plus
+
+142
+00:07:56,270 --> 00:07:58,268
+pour la livraison d'hier.
+
+143
+00:08:00,793 --> 00:08:02,362
+Si, on a bien reçu le chèque.
+
+144
+00:08:02,487 --> 00:08:05,328
+Mais il nous faudrait
+un chèque bien plus gros.
+
+145
+00:08:05,453 --> 00:08:08,353
+Quand un enfant se met
+au volant d'une voiture,
+
+146
+00:08:08,579 --> 00:08:10,229
+et fonce dans un arbre,
+
+147
+00:08:10,952 --> 00:08:13,702
+on ne lui en veut pas.
+Il n'y est pour rien.
+
+148
+00:08:14,901 --> 00:08:17,351
+On en veut plutôt
+à la femme de 30 ans
+
+149
+00:08:18,145 --> 00:08:20,095
+qui est à la place du mort
+
+150
+00:08:20,389 --> 00:08:23,391
+et qui dit : "Vas-y, mon petit.
+J'ai confiance en toi."
+
+151
+00:08:24,254 --> 00:08:25,717
+Est ce que le siège...
+
+152
+00:08:25,842 --> 00:08:28,799
+consentirait une réduction temporaire
+pour les clients qui reviendraient ?
+
+153
+00:08:28,967 --> 00:08:31,356
+- Bien sûr que non.
+- Stupide. On aurait l'air faible.
+
+154
+00:08:31,481 --> 00:08:32,920
+Tout à fait. C'est...
+
+155
+00:08:33,045 --> 00:08:35,253
+Je propose
+de remplir son bureau d'abeilles.
+
+156
+00:08:35,378 --> 00:08:37,421
+Mon apiculteur me doit une faveur.
+
+157
+00:08:39,569 --> 00:08:42,104
+Vraiment ?
+Il travaille bien ?
+
+158
+00:08:43,175 --> 00:08:45,685
+Non, Jim.
+J'emploie un mauvais apiculteur.
+
+159
+00:08:48,100 --> 00:08:50,399
+Pourquoi ne pas prendre
+cinq minutes de pause ?
+
+160
+00:08:50,524 --> 00:08:52,671
+On reviendra avec les idées claires,
+
+161
+00:08:53,199 --> 00:08:54,241
+et on en finit.
+
+162
+00:08:54,409 --> 00:08:55,959
+Cinq minutes exactement.
+
+163
+00:08:56,724 --> 00:08:58,662
+- Dwight, je peux vous parler ?
+- Bien sûr.
+
+164
+00:09:01,928 --> 00:09:03,139
+Tu m'as appelé ?
+
+165
+00:09:03,460 --> 00:09:05,127
+C'est la faillite ?
+
+166
+00:09:05,295 --> 00:09:07,192
+Il nous reste un mois, tout au plus.
+
+167
+00:09:07,968 --> 00:09:10,361
+- Je ne sais pas quoi faire.
+- Ne t'en fais pas.
+
+168
+00:09:10,486 --> 00:09:13,427
+- On se débrouillera, ça ira.
+- C'est ce que disait Michael.
+
+169
+00:09:13,768 --> 00:09:15,956
+Sauf que cette fois,
+ça ira vraiment.
+
+170
+00:09:16,081 --> 00:09:18,724
+- <i>Idiot. Idiot.</i>
+- Ma sonnerie pour Dwight.
+
+171
+00:09:18,892 --> 00:09:20,755
+- J'aime bien.
+- Sympa, hein ?
+
+172
+00:09:21,381 --> 00:09:23,981
+<i>Idiot, On reprend.
+C'est Dwight, au fait.</i>
+
+173
+00:09:26,941 --> 00:09:27,941
+T'en fais pas.
+
+174
+00:09:34,818 --> 00:09:37,618
+Je vous ai raconté le jour
+où Steve Martin est décédé ?
+
+175
+00:09:37,841 --> 00:09:39,745
+- Il n'est pas mort.
+- Je sais.
+
+176
+00:09:40,290 --> 00:09:41,538
+Mais, j'ai toujours cru
+
+177
+00:09:41,761 --> 00:09:44,565
+que le jour de sa mort
+serait le pire de ma vie.
+
+178
+00:09:44,690 --> 00:09:46,688
+Mais j'avais tort. C'est celui-ci.
+
+179
+00:09:56,500 --> 00:09:58,333
+Vous voulez entendre
+un truc triste ?
+
+180
+00:09:58,458 --> 00:09:59,608
+Avec plaisir.
+
+181
+00:10:00,183 --> 00:10:01,908
+Jim et moi, on va se marier.
+
+182
+00:10:02,134 --> 00:10:03,772
+Et ça revient très cher.
+
+183
+00:10:04,428 --> 00:10:07,550
+Alors, j'ai voulu prendre
+un boulot le week-end.
+
+184
+00:10:08,849 --> 00:10:12,528
+J'ai postulé chez Old Navy,
+Target et Wal-Mart.
+
+185
+00:10:13,632 --> 00:10:15,232
+Aucun ne m'a rappelée.
+
+186
+00:10:16,361 --> 00:10:18,033
+Pas même pour un entretien.
+
+187
+00:10:22,059 --> 00:10:24,048
+Je suis jamais parti en Thaïlande.
+
+188
+00:10:25,324 --> 00:10:26,208
+Vraiment ?
+
+189
+00:10:26,376 --> 00:10:28,106
+J'étais à Fort Lauderdale.
+
+190
+00:10:29,601 --> 00:10:30,796
+C'était bien ?
+
+191
+00:10:31,905 --> 00:10:33,455
+Ouais, c'était super.
+
+192
+00:10:34,328 --> 00:10:35,508
+Il y avait quand même
+
+193
+00:10:35,677 --> 00:10:37,327
+un bon resto de nouilles thaï.
+
+194
+00:10:37,512 --> 00:10:39,012
+J'adore les nouilles thaï.
+
+195
+00:10:40,795 --> 00:10:42,099
+T'en as jamais mangé.
+
+196
+00:10:45,388 --> 00:10:47,364
+J'ai encore beaucoup à découvrir.
+
+197
+00:10:48,982 --> 00:10:51,099
+Ce sont les prévisions
+des 3 mois à venir.
+
+198
+00:10:51,224 --> 00:10:53,735
+- On a encore du stock.
+- Ça suppose qu'il...
+
+199
+00:10:53,903 --> 00:10:57,709
+Permettez-moi de lancer une idée.
+Je peux avoir la parole ?
+
+200
+00:10:57,978 --> 00:11:01,956
+Il y a un essaim d'abeilles,
+près de la porte d'entrée.
+
+201
+00:11:02,485 --> 00:11:04,003
+On kidnappe la reine,
+
+202
+00:11:04,128 --> 00:11:06,173
+on prélève ses phéromones d'alerte,
+
+203
+00:11:06,298 --> 00:11:08,566
+que l'on met sur une lingette
+
+204
+00:11:08,901 --> 00:11:10,669
+cachée dans sa salle de bain.
+
+205
+00:11:13,329 --> 00:11:15,909
+J'en reviens pas
+d'avoir à dire ça, mais...
+
+206
+00:11:16,988 --> 00:11:18,598
+l'option la moins coûteuse...
+
+207
+00:11:19,260 --> 00:11:21,388
+est de faire une offre à Michael.
+
+208
+00:11:22,997 --> 00:11:25,726
+C'est ce que j'allais dire.
+On devrait le racheter.
+
+209
+00:11:26,161 --> 00:11:27,769
+Mais vous l'avez pas dit.
+
+210
+00:11:27,937 --> 00:11:29,099
+Bon sang !
+
+211
+00:11:29,403 --> 00:11:31,393
+Si seulement
+Michael avait des enfants.
+
+212
+00:11:31,518 --> 00:11:34,023
+Là, on aurait pu mettre la pression.
+
+213
+00:11:34,148 --> 00:11:36,695
+- C'est quoi ton souci ?
+- Jim, tu les connais bien.
+
+214
+00:11:36,864 --> 00:11:39,007
+Ils seraient prêts
+à écouter notre offre ?
+
+215
+00:11:39,132 --> 00:11:42,282
+Je ne sais pas.
+Ils ont récupéré pas mal de clients.
+
+216
+00:11:44,265 --> 00:11:47,748
+Je pourrais aller les voir
+et les aiguiller dans notre direction.
+
+217
+00:11:47,916 --> 00:11:50,445
+Vous savez quoi ?
+Pourquoi je n'irais pas ?
+
+218
+00:11:50,570 --> 00:11:52,770
+Michael m'adore.
+Je suis l'homme de la situation.
+
+219
+00:11:52,895 --> 00:11:55,047
+- Vous me soutenez ?
+- Jim, tu devrais y aller.
+
+220
+00:11:55,372 --> 00:11:58,175
+OK, je serai de retour...
+dans un instant.
+
+221
+00:12:03,152 --> 00:12:05,140
+- Je peux vous parler ?
+- On n'embauche pas.
+
+222
+00:12:05,308 --> 00:12:07,893
+- Je suis pas là pour ça.
+- Là, je peux pas te faire rire.
+
+223
+00:12:08,061 --> 00:12:11,066
+J'aime le suspense,
+mais je vais te dire ce qui m'amène.
+
+224
+00:12:11,191 --> 00:12:14,191
+Vous avez sacrément ébranlé
+les ventes de Dunder Mifflin.
+
+225
+00:12:14,359 --> 00:12:17,200
+- Tant mieux.
+- David m'a chargé de venir voir
+
+226
+00:12:17,325 --> 00:12:20,947
+si vous seriez intéressés
+d'être rachetés par Dunder Mifflin.
+
+227
+00:12:21,115 --> 00:12:22,115
+Sérieux ?
+
+228
+00:12:23,368 --> 00:12:25,251
+- T'es sérieux ?
+- Il bluffe.
+
+229
+00:12:25,703 --> 00:12:28,246
+Ce que tu ne sais pas,
+c'est que nous sommes fauch...
+
+230
+00:12:29,358 --> 00:12:30,658
+On n'a pas...
+
+231
+00:12:31,183 --> 00:12:33,330
+Moins j'en sais, mieux c'est.
+
+232
+00:12:33,455 --> 00:12:34,959
+Ce que je veux savoir,
+
+233
+00:12:35,084 --> 00:12:37,906
+c'est si votre entreprise
+en pleine réussite
+
+234
+00:12:38,031 --> 00:12:40,215
+est réceptive à une offre de rachat.
+
+235
+00:12:46,349 --> 00:12:47,835
+- Peut-être.
+- Trois oui.
+
+236
+00:12:48,000 --> 00:12:50,707
+On se revoit là haut,
+les "golden boys".
+
+237
+00:12:52,026 --> 00:12:54,356
+On n'est pas juste en or,
+on fait aussi de l'argent.
+
+238
+00:12:54,524 --> 00:12:55,814
+J'ai loupé la fin.
+
+239
+00:12:55,939 --> 00:12:58,037
+- C'est un jeu de mots.
+- D'accord.
+
+240
+00:13:04,492 --> 00:13:07,331
+Très bien, ils ne doivent pas savoir
+
+241
+00:13:07,698 --> 00:13:09,468
+- qu'on est fauchés.
+- Bien sûr.
+
+242
+00:13:09,593 --> 00:13:11,371
+On n'a aucun problème.
+
+243
+00:13:11,496 --> 00:13:14,963
+Juste pour être sûre,
+aucun de nous ne dira rien
+
+244
+00:13:15,161 --> 00:13:16,837
+qui laisse penser qu'on est fauchés.
+
+245
+00:13:17,626 --> 00:13:21,380
+Sous aucun prétexte,
+je ne leur dirai qu'on est fauchés.
+
+246
+00:13:25,070 --> 00:13:27,371
+J'ai vraiment peur que ça m'échappe.
+
+247
+00:13:29,495 --> 00:13:30,450
+Ça ira.
+
+248
+00:13:30,575 --> 00:13:32,584
+On vient en position de force.
+
+249
+00:13:32,709 --> 00:13:34,563
+- Mets-toi ça en tête.
+- Ça y est.
+
+250
+00:13:34,731 --> 00:13:35,605
+Ça va.
+
+251
+00:13:41,634 --> 00:13:44,367
+Michael Scott Paper Company
+pour M. David Wallace.
+
+252
+00:13:44,492 --> 00:13:46,003
+Nous sommes attendus.
+
+253
+00:13:50,281 --> 00:13:51,631
+Bien, bien, bien.
+
+254
+00:13:53,007 --> 00:13:54,757
+Comme le vent tourne...
+
+255
+00:14:01,791 --> 00:14:05,092
+Dans le but
+d'accélérer cette négociation,
+
+256
+00:14:05,568 --> 00:14:08,013
+nous sommes prêts
+à faire une offre très généreuse.
+
+257
+00:14:08,181 --> 00:14:10,364
+Et nous sommes prêts à la rejeter.
+
+258
+00:14:11,152 --> 00:14:14,204
+- On a encore rien entendu...
+- Ne jamais accepter la 1re offre.
+
+259
+00:14:14,329 --> 00:14:15,812
+Quelle est la 2e offre ?
+
+260
+00:14:16,306 --> 00:14:17,314
+12 000 $.
+
+261
+00:14:18,546 --> 00:14:21,370
+C'est une blague ?
+C'est si peu que c'est insultant.
+
+262
+00:14:21,522 --> 00:14:23,779
+Je n'ose même pas
+imaginer la 1e offre.
+
+263
+00:14:24,620 --> 00:14:25,882
+Tu entends quoi ?
+
+264
+00:14:29,243 --> 00:14:32,157
+Pour résumer,
+ton entreprise date de 4 semaines.
+
+265
+00:14:32,282 --> 00:14:34,549
+Je connais le marché
+et les prix des fournisseurs.
+
+266
+00:14:34,674 --> 00:14:36,829
+Je sais que tes marges sont faibles.
+
+267
+00:14:36,954 --> 00:14:38,710
+J'ignore comment tu fais,
+
+268
+00:14:38,969 --> 00:14:41,238
+mais, je sais
+que ça ne peut pas durer.
+
+269
+00:14:41,589 --> 00:14:43,226
+Tu dois être anxieux.
+
+270
+00:14:43,351 --> 00:14:44,758
+Sûrement endetté.
+
+271
+00:14:45,274 --> 00:14:47,142
+Tu n'auras pas de meilleure offre.
+
+272
+00:14:47,267 --> 00:14:50,222
+Je vois ton résumé
+et je te relance d'un résumé.
+
+273
+00:14:50,347 --> 00:14:53,197
+Ton entreprise perd des clients
+de tous les côtés.
+
+274
+00:14:53,511 --> 00:14:55,477
+Il y a bientôt
+une assemblée générale
+
+275
+00:14:55,786 --> 00:14:59,686
+et tu vas devoir expliquer
+pourquoi ta filiale la plus rentable
+
+276
+00:15:00,377 --> 00:15:01,477
+prend l'eau.
+
+277
+00:15:02,306 --> 00:15:05,028
+Ils voudront peut-être
+changer de directeur financier.
+
+278
+00:15:05,196 --> 00:15:09,112
+J'ai juste besoin de durer plus que toi.
+Pas plus que Dunder Mifflin.
+
+279
+00:15:12,309 --> 00:15:14,477
+Je ne sais pas si ce sera faisable,
+
+280
+00:15:14,670 --> 00:15:16,951
+il me faudra
+l'approbation du conseil.
+
+281
+00:15:18,928 --> 00:15:20,053
+Que dirais-tu
+
+282
+00:15:20,178 --> 00:15:21,452
+de 60 000 $.
+
+283
+00:15:26,685 --> 00:15:27,685
+60 000 $.
+
+284
+00:15:32,347 --> 00:15:34,132
+- On va devoir en discuter...
+- Quoi ?
+
+285
+00:15:34,257 --> 00:15:36,643
+- On va devoir en discuter.
+- Entre nous.
+
+286
+00:15:37,422 --> 00:15:38,672
+On vous laisse.
+
+287
+00:15:39,299 --> 00:15:40,649
+On attend dehors.
+
+288
+00:15:41,025 --> 00:15:42,357
+Prenez votre temps.
+
+289
+00:15:48,630 --> 00:15:50,874
+- 60 000 $ ?
+- On est trop...
+
+290
+00:15:51,316 --> 00:15:52,158
+riches.
+
+291
+00:15:53,248 --> 00:15:55,207
+Jerry, le déserteur...
+
+292
+00:15:57,131 --> 00:16:00,289
+Puis-je vous demander
+pourquoi vous quittez Michael Scott ?
+
+293
+00:16:02,985 --> 00:16:03,926
+Vraiment ?
+
+294
+00:16:06,287 --> 00:16:07,459
+Ne quittez pas.
+
+295
+00:16:15,666 --> 00:16:17,319
+Puis-je avoir votre attention ?
+
+296
+00:16:17,444 --> 00:16:19,436
+Michael Scott Paper Company
+est fauchée.
+
+297
+00:16:19,604 --> 00:16:21,271
+Quoi ? Comment vous savez ça ?
+
+298
+00:16:21,613 --> 00:16:24,566
+Ils ont appelé tous leurs clients
+en les suppliant de payer plus.
+
+299
+00:16:24,734 --> 00:16:26,268
+Ils sont désespérés.
+
+300
+00:16:26,393 --> 00:16:27,983
+Ce qui signifie une chose !
+
+301
+00:16:28,108 --> 00:16:29,814
+C'est un fiasco complet.
+
+302
+00:16:29,939 --> 00:16:32,385
+Beau travail.
+Beau travail d'investigation.
+
+303
+00:16:32,510 --> 00:16:34,677
+Ça doit être
+la 1re affaire que tu résous.
+
+304
+00:16:34,802 --> 00:16:36,244
+On ne résout pas une affaire.
+
+305
+00:16:36,412 --> 00:16:39,170
+C'est péjoratif,
+comme dire "flic" au lieu de policier.
+
+306
+00:16:39,295 --> 00:16:41,906
+On élucide une affaire
+et j'en ai déjà élucidé.
+
+307
+00:16:42,031 --> 00:16:43,918
+Ils seront solvables jusqu'à quand ?
+
+308
+00:16:44,086 --> 00:16:45,760
+Tes 5 meilleurs affaires ?
+
+309
+00:16:45,885 --> 00:16:48,742
+- Je vais répondre à Charles.
+- Parce que t'en as jamais résolues.
+
+310
+00:16:48,867 --> 00:16:51,102
+L'affaire du voleur de betteraves.
+
+311
+00:16:51,227 --> 00:16:54,513
+Disparition de betteraves.
+Pas d'empreintes. Coupable interne.
+
+312
+00:16:54,734 --> 00:16:56,128
+Mose en chaussettes.
+
+313
+00:16:56,641 --> 00:16:57,766
+Affaire classée.
+
+314
+00:16:58,078 --> 00:17:00,810
+Ne vous approchez pas
+de la salle de conférence.
+
+315
+00:17:01,905 --> 00:17:04,314
+Vous m'avez assez embarrassé
+pour aujourd'hui.
+
+316
+00:17:05,135 --> 00:17:06,733
+- Compris ?
+- Je vous suis pas.
+
+317
+00:17:06,901 --> 00:17:08,151
+Vous êtes des crétins.
+
+318
+00:17:08,319 --> 00:17:09,219
+Compris.
+
+319
+00:17:10,326 --> 00:17:11,420
+Sortez d'ici.
+
+320
+00:17:14,742 --> 00:17:17,994
+Vous avez réfléchi
+et vous acceptez notre offre.
+
+321
+00:17:18,162 --> 00:17:19,996
+On peut enfin oublier tout ça ?
+
+322
+00:17:27,172 --> 00:17:29,339
+Vous nous accordez
+une autre minute ?
+
+323
+00:17:44,767 --> 00:17:48,024
+Comment tu as pu me faire ça ?
+Je viens de perdre 60 000 $.
+
+324
+00:17:48,192 --> 00:17:51,101
+- Pourquoi tu aurais tout ?
+- C'est beaucoup d'argent.
+
+325
+00:17:51,226 --> 00:17:53,251
+Il nous faut de l'argent
+chaque semaine.
+
+326
+00:17:53,376 --> 00:17:54,862
+On a besoin d'emplois.
+
+327
+00:17:55,092 --> 00:17:58,037
+Mieux vaut avoir une canne à pêche
+qu'un poisson, non ?
+
+328
+00:17:58,675 --> 00:18:01,448
+Sincèrement,
+je préférerais 60 000 $.
+
+329
+00:18:01,832 --> 00:18:03,293
+Non, Michael a raison.
+
+330
+00:18:03,418 --> 00:18:05,068
+Un emploi est plus sûr.
+
+331
+00:18:06,396 --> 00:18:07,396
+D'accord ?
+
+332
+00:18:08,381 --> 00:18:10,329
+D'accord.
+Mais c'est tout, OK ?
+
+333
+00:18:11,206 --> 00:18:12,665
+On devrait en parler...
+
+334
+00:18:14,969 --> 00:18:16,483
+Je veux mon ancien travail.
+
+335
+00:18:16,608 --> 00:18:19,681
+Mon ancienne place de parking,
+une Sebring...
+
+336
+00:18:19,849 --> 00:18:21,203
+Ils n'en font plus.
+
+337
+00:18:21,771 --> 00:18:23,476
+Et je veux que Charles parte.
+
+338
+00:18:24,403 --> 00:18:26,383
+Je ne le renvoie pas.
+Il est précieux.
+
+339
+00:18:26,508 --> 00:18:28,815
+- C'est très gentil.
+- J'ai besoin qu'il parte.
+
+340
+00:18:30,193 --> 00:18:33,611
+- Alors, Pam revient.
+- Il y a déjà une réceptionniste.
+
+341
+00:18:33,779 --> 00:18:35,091
+Comme commerciale.
+
+342
+00:18:36,616 --> 00:18:39,216
+- Pam n'est pas une commerciale.
+- Si, elle l'est...
+
+343
+00:18:39,557 --> 00:18:41,283
+Chez Michael Scott Paper Company,
+
+344
+00:18:41,408 --> 00:18:42,912
+- à son apogée.
+- En effet.
+
+345
+00:18:45,061 --> 00:18:46,722
+- Poursuis.
+- Ryan aussi.
+
+346
+00:18:47,335 --> 00:18:50,816
+Ryan a coûté à Dunder Mifflin
+des centaines de milliers de dollars.
+
+347
+00:18:50,941 --> 00:18:54,679
+Tu sais quoi ? Je me fiche
+qu'il ait tué toute sa famille.
+
+348
+00:18:54,804 --> 00:18:57,803
+- Il est comme un fils.
+- Tu sais ce que tu réclames ?
+
+349
+00:18:57,928 --> 00:19:00,597
+On parle de salaires, de mutuelles.
+
+350
+00:19:00,765 --> 00:19:02,390
+Et l'assurance dentaire.
+
+351
+00:19:02,558 --> 00:19:04,800
+Assurances, taxes
+sécurité sociale pour trois.
+
+352
+00:19:04,925 --> 00:19:08,188
+C'est bien plus que 60 000 $.
+C'est un rachat de plusieurs millions.
+
+353
+00:19:08,356 --> 00:19:09,731
+Ce sont nos demandes.
+
+354
+00:19:09,899 --> 00:19:11,858
+Ta société
+ne peut pas valoir autant.
+
+355
+00:19:12,026 --> 00:19:13,976
+Notre société ne vaut rien.
+
+356
+00:19:14,786 --> 00:19:16,609
+C'est ça qui nous différencie.
+
+357
+00:19:16,734 --> 00:19:19,454
+Je ne suis pas dans les affaires
+pour l'argent.
+
+358
+00:19:19,759 --> 00:19:23,664
+Si demain ma société coule,
+j'en monterai simplement une autre.
+
+359
+00:19:23,789 --> 00:19:26,162
+Puis une autre, une autre
+et une autre.
+
+360
+00:19:26,287 --> 00:19:28,166
+J'ai pleins d'idées
+de noms de sociétés.
+
+361
+00:19:28,751 --> 00:19:29,951
+En voilà une !
+
+362
+00:19:31,264 --> 00:19:32,810
+Ce sont nos demandes.
+
+363
+00:19:33,172 --> 00:19:34,591
+C'est ce qu'on veut.
+
+364
+00:19:35,750 --> 00:19:37,650
+Nos balles sont dans ton camp.
+
+365
+00:19:47,749 --> 00:19:48,871
+Marché conclu.
+
+366
+00:19:52,166 --> 00:19:53,828
+Vous pouvez nous laisser ?
+
+367
+00:20:15,051 --> 00:20:16,501
+Vous arrivez à y croire ?
+
+368
+00:20:17,815 --> 00:20:18,938
+Beau travail !
+
+369
+00:20:20,025 --> 00:20:22,220
+Voilà ! C'est de ça que je parle !
+
+370
+00:20:24,858 --> 00:20:27,892
+Il y a des moments déterminants
+dans la vie d'un homme.
+
+371
+00:20:28,552 --> 00:20:29,799
+Sa naissance,
+
+372
+00:20:29,924 --> 00:20:32,840
+ses premiers cheveux,
+sa première société,
+
+373
+00:20:32,965 --> 00:20:36,653
+Et le jour où il revend cette société
+à Dunder Mifflin.
+
+374
+00:20:38,075 --> 00:20:40,196
+Ce que j'ai appris de tout ça ?
+
+375
+00:20:40,364 --> 00:20:42,672
+Il est bien trop tôt pour le dire.
+
+376
+00:20:42,797 --> 00:20:44,686
+Je suis sur un nuage,
+
+377
+00:20:44,952 --> 00:20:46,661
+et j'ai même pas envie d'y penser.
+
+378
+00:20:46,944 --> 00:20:48,580
+Je veux juste en profiter.
+
+379
+00:20:49,922 --> 00:20:50,915
+C'est fini.
+

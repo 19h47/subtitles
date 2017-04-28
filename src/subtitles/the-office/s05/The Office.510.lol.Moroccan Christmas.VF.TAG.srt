@@ -1,0 +1,1610 @@
+1
+00:00:08,232 --> 00:00:09,515
+C'est quoi, ça ?
+
+2
+00:00:10,142 --> 00:00:11,650
+Joyeuses fêtes, Dwight.
+
+3
+00:00:11,775 --> 00:00:13,726
+Mais ne l'ouvre pas avant Noël.
+
+4
+00:00:13,851 --> 00:00:16,443
+T'es pathétique.
+Ça t'a pris quoi ? 3 heures ?
+
+5
+00:00:16,568 --> 00:00:19,559
+Cinq minutes.
+Je suis ceinture noire d'emballage.
+
+6
+00:00:19,728 --> 00:00:20,941
+Ça n'existe pas.
+
+7
+00:00:21,066 --> 00:00:24,242
+Ils donnent pas de ceintures noires
+pour des trucs stupides.
+
+8
+00:00:24,602 --> 00:00:28,451
+J'espère que ça valait le coup,
+car je vais tout dégager en 5 min.
+
+9
+00:00:28,780 --> 00:00:31,280
+- Ça devrait te prendre un poil plus.
+- Vraiment ?
+
+10
+00:00:31,405 --> 00:00:33,988
+Si je peux dépecer un cerf
+en moins de 10 min,
+
+11
+00:00:34,113 --> 00:00:36,106
+je devrais pouvoir libérer mon...
+
+12
+00:00:40,291 --> 00:00:42,749
+Sous-titres :
+- Feygnasse Team -
+
+13
+00:00:42,919 --> 00:00:46,265
+Adaptation VF : Kezac, Jaqpotjaq,
+Jarick, Sk0r, Collioure.
+
+14
+00:01:09,941 --> 00:01:12,153
+{\pos(290,225)}Épisode : 5x10
+"Moroccan Christmas"
+
+15
+00:01:14,022 --> 00:01:16,526
+Désolé,
+c'est le plus large que j'ai.
+
+16
+00:01:16,651 --> 00:01:19,356
+Je serai pas le gros gars
+avec un petit chapeau.
+
+17
+00:01:20,673 --> 00:01:22,733
+{\pos(110,260)}C'est la 1re fête de Noël
+que j'organise
+
+18
+00:01:22,858 --> 00:01:24,769
+{\pos(110,260)}en tant que chef
+du comité des fêtes.
+
+19
+00:01:24,894 --> 00:01:26,941
+{\pos(110,260)}Le thème est
+"Une Nuit au Maroc".
+
+20
+00:01:27,608 --> 00:01:30,363
+{\pos(110,260)}Ce n'est pas
+une fête de grand-mère.
+
+21
+00:01:30,613 --> 00:01:32,476
+{\pos(110,260)}À moins qu'elle soit marocaine,
+
+22
+00:01:32,601 --> 00:01:34,217
+{\pos(110,260)}dans ce cas, c'est approprié.
+
+23
+00:01:35,747 --> 00:01:38,089
+{\pos(110,260)}J'ai besoin de l'invit
+pour entrer à la fête ?
+
+24
+00:01:38,214 --> 00:01:39,547
+{\pos(110,260)}- Oui.
+- Génial.
+
+25
+00:01:39,672 --> 00:01:41,498
+{\pos(100,260)}Je pense que ça sera
+
+26
+00:01:41,862 --> 00:01:43,810
+{\pos(100,260)}notre meilleure fête de Noël.
+
+27
+00:01:48,109 --> 00:01:50,900
+Tu vas enlever ça ?
+C'est pas dans le thème.
+
+28
+00:01:51,583 --> 00:01:53,247
+{\pos(110,260)}C'est la Nativité...
+
+29
+00:01:54,567 --> 00:01:55,644
+D'accord...
+
+30
+00:01:56,016 --> 00:01:57,481
+Garde le chameau,
+
+31
+00:01:57,606 --> 00:01:59,414
+le mouton, l'éléphant.
+
+32
+00:01:59,539 --> 00:02:02,815
+Le roi nord-africain peut rester.
+Tout le reste...
+
+33
+00:02:03,084 --> 00:02:04,556
+va dans le tiroir.
+
+34
+00:02:05,039 --> 00:02:08,035
+{\pos(110,260)}Je n'en veux pas à Phyllis
+de désacraliser Noël.
+
+35
+00:02:08,318 --> 00:02:12,173
+{\pos(100,260)}Mais quelqu'un lui en voudra.
+Et elle l'a fourré dans un tiroir.
+
+36
+00:02:12,341 --> 00:02:14,925
+- Tu dois te débarrasser du sapin.
+- Mais...
+
+37
+00:02:17,272 --> 00:02:19,045
+Ce n'est pas du chantage.
+
+38
+00:02:19,358 --> 00:02:22,650
+Angela fait ce que je lui demande,
+pour que je ne raconte pas
+
+39
+00:02:22,775 --> 00:02:25,163
+{\pos(110,260)}qu'elle trompe Andy avec Dwight.
+
+40
+00:02:25,904 --> 00:02:29,622
+{\pos(110,260)}Pour que ce soit du chantage,
+ça doit se faire par écrit.
+
+41
+00:02:37,522 --> 00:02:39,409
+T'as amené ta collection de poupées.
+
+42
+00:02:39,534 --> 00:02:41,275
+{\pos(110,260)}Ce ne sont pas des poupées.
+
+43
+00:02:41,400 --> 00:02:44,618
+{\pos(110,260)}Ce sont des marchandises,
+comme de l'or ou du pétrole.
+
+44
+00:02:44,957 --> 00:02:48,900
+{\pos(105,260)}Chaque année, je recherche
+le jouet le plus populaire de Noël.
+
+45
+00:02:49,464 --> 00:02:53,128
+{\pos(110,260)}Cette année, c'est une poupée.
+Moitié fille, moitié licorne.
+
+46
+00:02:54,420 --> 00:02:57,301
+{\pos(100,260)}Le slogan :
+"Ma corne peut percer le ciel".
+
+47
+00:02:58,009 --> 00:02:59,025
+{\pos(110,260)}Pathétique.
+
+48
+00:02:59,976 --> 00:03:03,028
+{\pos(110,260)}Ces dernières semaines,
+j'ai vidé les magasins du coin.
+
+49
+00:03:03,153 --> 00:03:05,702
+{\pos(90,260)}Quand les parents fainéants
+seront désespérés,
+
+50
+00:03:05,827 --> 00:03:08,421
+{\pos(100,260)}je les revendrai
+avec un énorme bénéfice.
+
+51
+00:03:09,008 --> 00:03:10,726
+Pas vrai, Princesse ?
+
+52
+00:03:12,499 --> 00:03:15,402
+{\pos(110,260)}- Voilà l'esprit de Noël.
+- Je punis juste les parents
+
+53
+00:03:15,527 --> 00:03:17,904
+{\pos(110,260)}qui font leur cadeau
+à la dernière minute.
+
+54
+00:03:18,029 --> 00:03:20,544
+Et génétiquement improbable.
+Regarde ça.
+
+55
+00:03:20,669 --> 00:03:23,372
+C'est arrivé comment ?
+Le roi a couché avec une licorne ?
+
+56
+00:03:23,497 --> 00:03:25,796
+Un homme cornu a couché
+avec le cheval du roi ?
+
+57
+00:03:25,921 --> 00:03:28,326
+C'est Princesse Licorne ?
+Je les croyais épuisées.
+
+58
+00:03:28,451 --> 00:03:30,140
+- Maintenant, oui.
+- Cool.
+
+59
+00:03:30,369 --> 00:03:32,794
+<i>Ma corne peut percer le ciel.</i>
+
+60
+00:03:39,816 --> 00:03:41,538
+C'est à parts égales,
+
+61
+00:03:41,663 --> 00:03:43,229
+scotch, absinthe,
+
+62
+00:03:43,428 --> 00:03:44,558
+rhum, gin,
+
+63
+00:03:44,799 --> 00:03:46,475
+vermouth, triple sec,
+
+64
+00:03:46,855 --> 00:03:49,984
+et deux sucrettes.
+Je l'ai appelé "Un de Chaque".
+
+65
+00:04:00,203 --> 00:04:02,783
+- Ressers-moi !
+- On y retourne !
+
+66
+00:04:04,701 --> 00:04:06,120
+Je t'accorde un voeu.
+
+67
+00:04:07,426 --> 00:04:10,374
+Je souhaite que tu cesses
+de peloter cette lampe.
+
+68
+00:04:10,542 --> 00:04:13,586
+Stupide. Il faut demander
+100 voeux supplémentaires.
+
+69
+00:04:13,754 --> 00:04:14,670
+Idiote.
+
+70
+00:04:23,055 --> 00:04:24,263
+Ange, écoute ça.
+
+71
+00:04:24,999 --> 00:04:27,552
+<i>Il y a un lieu en France</i>
+
+72
+00:04:28,197 --> 00:04:30,887
+<i>Où toutes les femmes nues dansent</i>
+
+73
+00:04:32,572 --> 00:04:34,726
+Vraiment, Andy ?
+C'est Noël...
+
+74
+00:04:34,851 --> 00:04:37,559
+Et tu chantes
+sur la nudité et la France.
+
+75
+00:04:38,439 --> 00:04:40,323
+<i>Il y a un trou</i>
+
+76
+00:04:40,448 --> 00:04:41,809
+<i>dans le mur</i>
+
+77
+00:04:42,175 --> 00:04:44,926
+<i>Où les hommes voient tout bien sûr</i>
+
+78
+00:04:46,748 --> 00:04:49,294
+- Jim, goûte-moi ça.
+- C'est quoi ?
+
+79
+00:04:49,419 --> 00:04:51,822
+Un mélange de vodka
+et de jus d'orange.
+
+80
+00:04:51,947 --> 00:04:54,223
+Je l'ai appelé
+une "Orange Vod-jus-ka".
+
+81
+00:04:57,367 --> 00:04:58,881
+C'est délicieux.
+
+82
+00:04:59,049 --> 00:05:00,966
+Étonnant que personne n'y ait pensé.
+
+83
+00:05:16,024 --> 00:05:17,574
+Danse du ventre.
+
+84
+00:05:18,168 --> 00:05:20,428
+120, 180... 200.
+
+85
+00:05:20,862 --> 00:05:21,733
+Voilà.
+
+86
+00:05:21,929 --> 00:05:24,610
+Merci beaucoup.
+Ma fille va l'adorer.
+
+87
+00:05:25,124 --> 00:05:27,660
+- Si je peux être utile. Joyeux Noël.
+- Vous aussi.
+
+88
+00:05:34,036 --> 00:05:37,002
+Ce serait tous les jours comme ça,
+si t'étais resté en Inde.
+
+89
+00:05:42,134 --> 00:05:43,177
+En flamme !
+
+90
+00:05:44,494 --> 00:05:45,887
+On a un embrasé !
+
+91
+00:05:46,012 --> 00:05:47,045
+En feu !
+
+92
+00:05:56,373 --> 00:05:57,611
+Je vais bien.
+
+93
+00:06:11,768 --> 00:06:12,579
+Désolé.
+
+94
+00:06:13,734 --> 00:06:15,855
+On en revient au 5.
+On fait ça, là ?
+
+95
+00:06:15,980 --> 00:06:18,836
+Impossible.
+Contrôle mensuel chez le dentiste.
+
+96
+00:06:19,200 --> 00:06:20,379
+Dents fragiles.
+
+97
+00:06:20,547 --> 00:06:22,158
+Et le 2 janvier ?
+
+98
+00:06:22,799 --> 00:06:25,581
+Tu ferais ça
+le Jour de la Marmotte ?
+
+99
+00:06:25,706 --> 00:06:27,886
+- Je fête ça en privé.
+- C'est vrai.
+
+100
+00:06:28,322 --> 00:06:30,361
+On fait ça maintenant, vite fait.
+
+101
+00:06:30,486 --> 00:06:33,142
+- C'est la fête de Noël.
+- Et si on peut pas faire vite ?
+
+102
+00:06:33,310 --> 00:06:36,560
+Et si on peut pas faire vite ?
+Et si on peut pas ?
+
+103
+00:06:37,522 --> 00:06:39,559
+Tu sais comment faire
+une intervention ?
+
+104
+00:06:39,684 --> 00:06:40,733
+La ferme.
+
+105
+00:06:40,978 --> 00:06:42,526
+Tout le monde se réunit.
+
+106
+00:06:42,694 --> 00:06:45,155
+Une intervention,
+c'est assez dur à décrire.
+
+107
+00:06:45,280 --> 00:06:46,755
+Mais en fait, c'est...
+
+108
+00:06:47,024 --> 00:06:48,782
+C'est un rassemblement...
+
+109
+00:06:49,239 --> 00:06:51,504
+Une fête-surprise pour ceux...
+
+110
+00:06:52,183 --> 00:06:53,252
+qui sont...
+
+111
+00:06:53,533 --> 00:06:55,039
+qui ont une addiction.
+
+112
+00:06:55,932 --> 00:06:58,612
+Tu les confrontes
+et tu leur cries dessus,
+
+113
+00:06:58,737 --> 00:07:02,012
+et tu les pousses
+à se sentir vraiment coupables.
+
+114
+00:07:02,217 --> 00:07:03,589
+Alors, ils arrêtent.
+
+115
+00:07:03,845 --> 00:07:05,644
+On devrait être là un moment,
+
+116
+00:07:05,769 --> 00:07:08,052
+alors va préparer
+un plateau de houmous.
+
+117
+00:07:08,220 --> 00:07:12,139
+Triangles de pita grillés mais pas trop,
+pour qu'on puisse les tenir.
+
+118
+00:07:12,307 --> 00:07:14,213
+- Je ne...
+- Et des serviettes.
+
+119
+00:07:14,338 --> 00:07:15,601
+Pas trop chaudes.
+
+120
+00:07:18,261 --> 00:07:20,981
+- Comment ça va ?
+- Un peu mieux. J'ai vomi.
+
+121
+00:07:21,276 --> 00:07:22,566
+Ravi de le savoir.
+
+122
+00:07:22,734 --> 00:07:23,776
+Pyro-girl !
+
+123
+00:07:26,755 --> 00:07:27,846
+Trop tôt.
+
+124
+00:07:28,323 --> 00:07:30,527
+Bien, j'ai pensé qu'on devrait faire
+
+125
+00:07:30,652 --> 00:07:33,369
+une intervention rapide,
+puis retour à la fête.
+
+126
+00:07:33,644 --> 00:07:36,155
+On peut seulement évoquer
+ses performances au boulot.
+
+127
+00:07:36,280 --> 00:07:37,790
+Pas lui demander de plus boire.
+
+128
+00:07:37,958 --> 00:07:39,690
+Je lui demande pas de plus boire.
+
+129
+00:07:39,815 --> 00:07:41,285
+Je l'implore...
+
+130
+00:07:41,821 --> 00:07:43,378
+de cesser d'être alcoolique.
+
+131
+00:07:43,860 --> 00:07:45,380
+Je suis pas alcoolique.
+
+132
+00:07:46,001 --> 00:07:47,394
+Visiblement, si.
+
+133
+00:07:48,635 --> 00:07:51,935
+Ceux qui pensent que Meredith
+est alcoolique, levez la main.
+
+134
+00:07:52,060 --> 00:07:53,896
+- Moi.
+- Les moi l'emportent.
+
+135
+00:07:54,021 --> 00:07:56,152
+Je me moque de ce que vous pensez.
+
+136
+00:07:56,671 --> 00:07:59,061
+Je sais que je suis pas alcoolique.
+
+137
+00:08:02,391 --> 00:08:04,808
+Voyons ça d'un peu plus près.
+
+138
+00:08:05,485 --> 00:08:07,405
+À la fac, j'étais souvent...
+
+139
+00:08:07,755 --> 00:08:09,500
+méchamment défoncé.
+
+140
+00:08:10,974 --> 00:08:12,613
+On m'appelait "Vomi".
+
+141
+00:08:12,738 --> 00:08:16,092
+S'enfiler un Southern Comfort,
+se glisser en soirée étudiante...
+
+142
+00:08:16,612 --> 00:08:18,947
+Expédier les verres pas finis...
+
+143
+00:08:19,486 --> 00:08:21,708
+Des bières, des jello shots.
+
+144
+00:08:21,833 --> 00:08:24,083
+Les lécher dans mon propre nombril.
+
+145
+00:08:24,393 --> 00:08:25,612
+Coma éthylique,
+
+146
+00:08:25,737 --> 00:08:27,715
+se réveiller le lendemain, vomir,
+
+147
+00:08:27,874 --> 00:08:30,342
+gérer la gueule de bois,
+encore un Southern,
+
+148
+00:08:30,510 --> 00:08:31,684
+filer en cours.
+
+149
+00:08:31,959 --> 00:08:34,249
+On m'aurait viré
+si ça avait affecté mes notes,
+
+150
+00:08:34,374 --> 00:08:37,319
+mais j'assurais en cours.
+On m'appelait "As".
+
+151
+00:08:37,444 --> 00:08:40,137
+J'étais carrément génial.
+J'avais des "B".
+
+152
+00:08:40,262 --> 00:08:41,687
+On m'appelait "Buz".
+
+153
+00:08:43,140 --> 00:08:45,523
+Avez-vous déjà bu
+pour changer votre humeur ?
+
+154
+00:08:45,692 --> 00:08:47,767
+Ou changer votre état d'esprit ?
+
+155
+00:08:47,892 --> 00:08:48,906
+Bien sûr.
+
+156
+00:08:49,415 --> 00:08:52,156
+Buvez-vous parfois
+pour marquer une occasion
+
+157
+00:08:52,324 --> 00:08:54,675
+- ou fêter les vacances ?
+- Évidemment.
+
+158
+00:08:55,677 --> 00:08:57,970
+Avez-vous,
+sous l'influence de l'alcool,
+
+159
+00:08:58,095 --> 00:09:00,761
+remis en question les enseignements
+de l'Eglise mormone ?
+
+160
+00:09:00,886 --> 00:09:03,705
+- Où t'as trouvé ça ?
+- Sur un site web. Sans importance.
+
+161
+00:09:04,009 --> 00:09:07,127
+Il nous faudrait des experts.
+Tu sais pas ce que tu fais.
+
+162
+00:09:07,252 --> 00:09:10,449
+Tu sais quoi, un de mes employés
+est en pleine crise.
+
+163
+00:09:10,574 --> 00:09:13,873
+Et j'aimerais que, pour une fois,
+tu prennes mon parti.
+
+164
+00:09:14,346 --> 00:09:15,637
+Je fais ton boulot.
+
+165
+00:09:17,358 --> 00:09:19,959
+- T'envoies des textos ?
+- Oui, c'est barbant.
+
+166
+00:09:20,084 --> 00:09:22,028
+C'est vrai, l'alcool est barbant.
+
+167
+00:09:22,153 --> 00:09:24,030
+J'aimerais qu'on fasse le tour,
+
+168
+00:09:24,155 --> 00:09:26,795
+et que vous disiez tous à Meredith,
+
+169
+00:09:26,920 --> 00:09:28,483
+en quoi son alcoolisme
+
+170
+00:09:28,651 --> 00:09:29,982
+nous a affecté.
+
+171
+00:09:30,361 --> 00:09:32,838
+Je commence.
+Cette fête de Noël...
+
+172
+00:09:32,963 --> 00:09:36,424
+était sans doute
+la meilleure où je suis allé.
+
+173
+00:09:36,832 --> 00:09:40,162
+Mais t'as fini tellement ivre
+qu'on a dû arrêter pour faire ça.
+
+174
+00:09:40,330 --> 00:09:42,331
+Voilà en quoi
+ça m'affecte que tu boives.
+
+175
+00:09:42,843 --> 00:09:44,870
+Quelqu'un d'autre ?
+Une autre fois
+
+176
+00:09:44,995 --> 00:09:47,366
+où son alcoolisme vous a affecté.
+
+177
+00:09:48,961 --> 00:09:49,922
+Allez !
+
+178
+00:09:50,090 --> 00:09:52,299
+Si vous ne dites rien,
+elle n'ira jamais mieux.
+
+179
+00:09:55,450 --> 00:09:58,387
+Il y a bien cette fois,
+où t'avais des places de ciné,
+
+180
+00:09:58,512 --> 00:10:00,724
+mais t'étais trop saoule
+pour y aller,
+
+181
+00:10:01,219 --> 00:10:02,684
+Et tu me les as données.
+
+182
+00:10:03,013 --> 00:10:04,478
+C'était vraiment cool.
+
+183
+00:10:05,187 --> 00:10:06,604
+Tu n'as pas...
+
+184
+00:10:07,353 --> 00:10:08,941
+Ça ne t'a pas blessé.
+
+185
+00:10:09,109 --> 00:10:10,652
+Tu as dit affecté.
+
+186
+00:10:10,777 --> 00:10:12,719
+- Merci encore.
+- Je t'en prie.
+
+187
+00:10:12,844 --> 00:10:15,457
+C'est pas ce qu'on cherche.
+Qui a un problème
+
+188
+00:10:15,582 --> 00:10:18,044
+avec son alcoolisme ?
+Ça doit vous déranger.
+
+189
+00:10:18,169 --> 00:10:21,116
+Ça me dérange !
+En quoi ça vous dérange, vous ?
+
+190
+00:10:21,945 --> 00:10:23,249
+Rien à dire ?
+
+191
+00:10:23,374 --> 00:10:25,040
+Non. J'aime bien Meredith.
+
+192
+00:10:25,208 --> 00:10:28,840
+En fait, je me fiche Meredith.
+Mais je crois pas en ces trucs là.
+
+193
+00:10:28,965 --> 00:10:32,120
+Chez les Schrute, on croit
+à l'intervention à 5 doigts.
+
+194
+00:10:32,245 --> 00:10:34,651
+Conscience, éducation, maîtrise,
+
+195
+00:10:34,776 --> 00:10:36,647
+acceptation et coups de poing.
+
+196
+00:10:37,137 --> 00:10:39,182
+Qui te racontera
+la dernière blague cochonne ?
+
+197
+00:10:39,307 --> 00:10:41,723
+Qui te dira ce que tu as vu
+à la télé hier soir ?
+
+198
+00:10:41,891 --> 00:10:43,225
+Je vais bien.
+
+199
+00:10:43,393 --> 00:10:45,063
+John Belushi allait bien ?
+
+200
+00:10:45,188 --> 00:10:46,812
+Bob Hope allait bien ?
+
+201
+00:10:50,024 --> 00:10:51,027
+Viens là.
+
+202
+00:10:52,806 --> 00:10:55,026
+Si quelque chose devait t'arriver,
+
+203
+00:10:55,471 --> 00:10:57,757
+je serais vraiment
+en colère contre moi
+
+204
+00:10:58,079 --> 00:11:00,279
+de n'avoir pas fait
+tout mon possible.
+
+205
+00:11:00,404 --> 00:11:02,035
+Je sais que je bois.
+
+206
+00:11:02,203 --> 00:11:03,370
+J'aime m'éclater.
+
+207
+00:11:03,538 --> 00:11:05,671
+Je veux que tu dises,
+"Je suis alcoolique".
+
+208
+00:11:05,796 --> 00:11:07,836
+Je suis pas alcoolique !
+
+209
+00:11:08,084 --> 00:11:12,045
+Tu peux le dire aussi fort que tu veux,
+mais on ne te croira pas.
+
+210
+00:11:12,213 --> 00:11:16,116
+Je comptais attendre plus tard
+pour offrir les cadeaux de la société.
+
+211
+00:11:18,746 --> 00:11:21,430
+Je ne pense pas
+qu'ils soient adaptés maintenant.
+
+212
+00:11:26,653 --> 00:11:28,649
+Je t'en prie,
+arrête de m'obliger à ça.
+
+213
+00:11:28,774 --> 00:11:30,435
+Désolée, c'est ton boulot.
+
+214
+00:11:30,560 --> 00:11:32,397
+C'est la saison de la pitié.
+
+215
+00:11:32,522 --> 00:11:35,027
+T'as jamais eu pitié de moi
+quand t'avais le pouvoir.
+
+216
+00:11:36,821 --> 00:11:39,781
+- Pourquoi tu portes pas ton filet ?
+- Je l'ai perdu.
+
+217
+00:11:42,539 --> 00:11:43,462
+D'accord.
+
+218
+00:11:51,187 --> 00:11:52,146
+Parfait.
+
+219
+00:11:55,006 --> 00:11:57,881
+Je veux bien admettre
+que j'ai une addiction.
+
+220
+00:11:58,006 --> 00:11:59,192
+J'en ai une...
+
+221
+00:11:59,879 --> 00:12:00,891
+au porno.
+
+222
+00:12:04,512 --> 00:12:06,028
+Voilà une image,
+
+223
+00:12:06,153 --> 00:12:08,981
+qui est, nous sommes tous d'accord,
+vraiment dégoutante.
+
+224
+00:12:09,106 --> 00:12:10,562
+Tu sais quoi, Meredith ?
+
+225
+00:12:11,733 --> 00:12:15,369
+Aujourd'hui, tu as enflammé tes cheveux.
+Ça sera quoi demain ?
+
+226
+00:12:15,494 --> 00:12:18,415
+Qu'arrivera-t-il,
+si tu viens au travail
+
+227
+00:12:18,540 --> 00:12:19,788
+et que tu es morte ?
+
+228
+00:12:19,913 --> 00:12:21,992
+Je lui poignarde le cerveau
+avec un pieu.
+
+229
+00:12:22,117 --> 00:12:24,254
+Il y a plusieurs façons
+de tuer un zombie.
+
+230
+00:12:24,379 --> 00:12:25,844
+Mais la plus satisfaisante
+
+231
+00:12:25,969 --> 00:12:28,163
+est de poignarder son cerveau
+avec un pieu.
+
+232
+00:12:28,556 --> 00:12:31,328
+Tout le monde t'aime
+dans cette pièce.
+
+233
+00:12:31,709 --> 00:12:34,711
+Mais écoute-moi bien,
+on supportera plus ton alcoolisme.
+
+234
+00:12:35,050 --> 00:12:37,435
+La prochaine fois que tu prends feu,
+
+235
+00:12:37,560 --> 00:12:39,968
+on t'aidera pas à t'éteindre.
+
+236
+00:12:41,182 --> 00:12:43,975
+En tant que responsable incendie,
+je serais obligé.
+
+237
+00:12:44,100 --> 00:12:46,390
+Elle mettrait en danger
+tout le bureau.
+
+238
+00:12:47,778 --> 00:12:51,551
+Sauf si le feu était contenu
+dans une zone bien ventilée.
+
+239
+00:12:51,676 --> 00:12:55,357
+- Mais il te faudrait un permis.
+- Ça prendrait plusieurs semaines.
+
+240
+00:12:55,567 --> 00:12:57,734
+- Je t'en fournis un en 1h.
+- Vraiment ?
+
+241
+00:12:58,304 --> 00:12:59,473
+C'est fini.
+
+242
+00:12:59,598 --> 00:13:01,126
+Je suis d'accord.
+
+243
+00:13:01,405 --> 00:13:04,064
+Tu as fait de ton mieux
+mais ça nous dépasse.
+
+244
+00:13:04,189 --> 00:13:05,173
+Lâcheur.
+
+245
+00:13:09,231 --> 00:13:11,461
+C'est Noël et on tourne le dos
+
+246
+00:13:11,586 --> 00:13:13,832
+à quelqu'un qui a besoin d'aide.
+
+247
+00:13:14,142 --> 00:13:16,322
+Vous savez
+ce que je veux pour Noël ?
+
+248
+00:13:16,447 --> 00:13:19,671
+Je veux que Meredith s'en sorte.
+C'est tout ce que je désire.
+
+249
+00:13:19,981 --> 00:13:23,749
+Mais je n'ai jamais ce que je veux,
+alors je ne vais pas lui souhaiter ça.
+
+250
+00:13:24,497 --> 00:13:26,115
+Une montre, ça m'irait.
+
+251
+00:13:30,824 --> 00:13:32,477
+Ils y sont depuis 45 minutes.
+
+252
+00:13:32,645 --> 00:13:33,561
+Je sais.
+
+253
+00:13:33,686 --> 00:13:36,660
+On serait alcoolique
+pour moins que ça.
+
+254
+00:13:37,725 --> 00:13:41,328
+C'est un cookie Halwa Shebakia.
+On le mange durant le ramadan.
+
+255
+00:13:44,553 --> 00:13:45,679
+C'est bon.
+
+256
+00:13:58,015 --> 00:13:59,901
+- Ça va ?
+- Tu joues sur demande ?
+
+257
+00:14:00,026 --> 00:14:01,434
+- Bien sûr.
+- Alors arrête.
+
+258
+00:14:01,559 --> 00:14:03,696
+On essaie de faire la fête à côté.
+
+259
+00:14:20,808 --> 00:14:22,609
+Je te rejoins en bas.
+
+260
+00:14:27,065 --> 00:14:28,450
+Tu peux me donner
+
+261
+00:14:28,618 --> 00:14:31,536
+le numéro du centre
+de désintoxication dont tu as parlé ?
+
+262
+00:14:31,704 --> 00:14:32,711
+Bien sûr.
+
+263
+00:14:48,015 --> 00:14:50,136
+- On vient de passer Poor Richard's.
+- Vraiment ?
+
+264
+00:14:50,261 --> 00:14:52,646
+Je croyais
+qu'on sortait prendre un verre.
+
+265
+00:14:54,014 --> 00:14:56,165
+Pas grave, on ira autre part.
+
+266
+00:14:56,968 --> 00:14:57,996
+Au Bog ?
+
+267
+00:14:58,464 --> 00:15:01,103
+- Cooper's, Kelly's...
+- On pourrait, oui.
+
+268
+00:15:01,228 --> 00:15:02,361
+Brixx's...
+
+269
+00:15:02,486 --> 00:15:03,489
+Carmen's...
+
+270
+00:15:03,820 --> 00:15:06,682
+- The Fort, Andy Gavin's ?
+- J'en connais un nouveau.
+
+271
+00:15:07,074 --> 00:15:08,980
+Ça vient d'ouvrir alors ?
+
+272
+00:15:09,274 --> 00:15:10,595
+C'est tout récent.
+
+273
+00:15:13,802 --> 00:15:17,302
+Marre de ces niaiseries de Noël.
+Mettons de la vraie musique.
+
+274
+00:15:19,023 --> 00:15:20,106
+C'est parti.
+
+275
+00:15:20,564 --> 00:15:21,853
+C'est du bon son.
+
+276
+00:15:22,188 --> 00:15:24,422
+- C'est bien mieux.
+- C'est l'éclate.
+
+277
+00:15:25,045 --> 00:15:26,748
+Salut, Sasha, c'est Papa.
+
+278
+00:15:26,873 --> 00:15:29,930
+Tu as entendu parler de
+Princesse Licorne ?
+
+279
+00:15:33,385 --> 00:15:36,027
+Je voulais juste savoir
+si tu connaissais.
+
+280
+00:15:36,864 --> 00:15:38,130
+C'est génial.
+
+281
+00:15:38,859 --> 00:15:40,913
+Mon ex-femme sera trop dégoutée.
+
+282
+00:15:42,772 --> 00:15:44,928
+Pour une fois,
+ça sera Papa le héros.
+
+283
+00:15:48,056 --> 00:15:48,872
+200 ?
+
+284
+00:15:50,736 --> 00:15:52,936
+Il me faudrait une poupée.
+
+285
+00:15:53,244 --> 00:15:54,703
+C'est ma dernière.
+
+286
+00:15:57,878 --> 00:15:59,583
+J'allais l'acheter.
+
+287
+00:16:00,965 --> 00:16:03,075
+J'allais acheter cette poupée.
+
+288
+00:16:04,302 --> 00:16:06,503
+- C'est pas mon problème.
+- Mais je...
+
+289
+00:16:06,628 --> 00:16:09,013
+J'ai promis à ma fille.
+Darryl, écoute...
+
+290
+00:16:10,979 --> 00:16:12,599
+J'ai besoin de cette poupée.
+
+291
+00:16:12,724 --> 00:16:14,848
+Vraiment besoin.
+Je t'en supplie.
+
+292
+00:16:15,522 --> 00:16:17,767
+J'en ai besoin plus que tout.
+
+293
+00:16:17,935 --> 00:16:19,219
+Il me la faut.
+
+294
+00:16:19,735 --> 00:16:21,297
+Darryl, j'en ai besoin.
+
+295
+00:16:22,504 --> 00:16:24,206
+Pleure pas. C'est bon.
+
+296
+00:16:26,474 --> 00:16:28,069
+Je te la laisse pour 400.
+
+297
+00:16:29,446 --> 00:16:30,783
+J'ai que 200.
+
+298
+00:16:31,387 --> 00:16:32,708
+Je te fais crédit.
+
+299
+00:16:40,892 --> 00:16:42,240
+Ça me fait plaisir.
+
+300
+00:16:42,585 --> 00:16:43,878
+Joyeux Noël.
+
+301
+00:16:45,140 --> 00:16:46,439
+Elle va l'ador...
+
+302
+00:16:49,590 --> 00:16:51,259
+Ça te convient pas ?
+
+303
+00:16:55,748 --> 00:16:56,952
+Elle est...
+
+304
+00:16:57,077 --> 00:16:59,672
+Elle est encore mieux
+que celle que je voulais.
+
+305
+00:17:06,324 --> 00:17:08,076
+Centre de cure Sunrise ?
+
+306
+00:17:11,103 --> 00:17:14,301
+Je t'ai dit que je voulais pas !
+Non ! Pas moyen !
+
+307
+00:17:14,426 --> 00:17:17,234
+Tout va bien.
+C'est pour ton bien.
+
+308
+00:17:18,367 --> 00:17:19,449
+Allez viens.
+
+309
+00:17:20,535 --> 00:17:22,941
+- Ça va te plaire.
+- Pas question.
+
+310
+00:17:23,066 --> 00:17:25,669
+On en a déjà parlé.
+Je veux pas !
+
+311
+00:17:30,069 --> 00:17:32,301
+- J'y vais pas !
+- Si, tu vas y aller.
+
+312
+00:17:33,719 --> 00:17:35,380
+Attends ! Attends un peu.
+
+313
+00:17:39,485 --> 00:17:41,679
+- Attends, attends.
+- Calme-toi.
+
+314
+00:17:49,941 --> 00:17:50,944
+Viens là.
+
+315
+00:17:52,029 --> 00:17:53,415
+Pas question !
+
+316
+00:17:53,727 --> 00:17:55,532
+- Voilà l'entrée.
+- Pas question !
+
+317
+00:17:57,142 --> 00:17:58,615
+Faisons connaissance.
+
+318
+00:17:59,516 --> 00:18:00,881
+Cet homme est fou.
+
+319
+00:18:01,006 --> 00:18:04,123
+- Je peux vous aider ?
+- C'est pour déposer une alcoolique.
+
+320
+00:18:05,148 --> 00:18:06,936
+Il faut signer quelque part ?
+
+321
+00:18:07,967 --> 00:18:10,255
+Il faudrait que tu remettes
+le sapin en place.
+
+322
+00:18:10,423 --> 00:18:11,423
+Il est dehors.
+
+323
+00:18:11,591 --> 00:18:14,884
+Je ne t'ai pas demandé où il était.
+Je t'ai dit où le ramener.
+
+324
+00:18:15,968 --> 00:18:16,970
+La ferme.
+
+325
+00:18:17,630 --> 00:18:18,657
+Pardon ?
+
+326
+00:18:19,480 --> 00:18:23,172
+Je ne vais pas ramener cet arbre.
+Le seul pouvoir que tu as sur moi
+
+327
+00:18:23,297 --> 00:18:26,203
+c'est ce petit secret
+que jamais tu ne révèleras
+
+328
+00:18:26,328 --> 00:18:27,932
+Tu veux savoir pourquoi ?
+
+329
+00:18:28,057 --> 00:18:31,372
+Parce qu'alors tu ne pourrais plus
+diriger le comité des fêtes.
+
+330
+00:18:31,497 --> 00:18:33,236
+Alors, déplace-le toi même.
+
+331
+00:18:48,131 --> 00:18:50,213
+Angela couche avec Dwight.
+
+332
+00:18:54,291 --> 00:18:57,719
+Je les ai vus en pleine action
+au pot de départ de Toby.
+
+333
+00:19:02,975 --> 00:19:04,726
+Et ça vous surprend ?
+
+334
+00:19:06,771 --> 00:19:08,413
+- Je le savais.
+- Mais bien sûr.
+
+335
+00:19:08,538 --> 00:19:11,199
+- Je m'en doutais.
+- Tout le monde s'en doutait.
+
+336
+00:19:11,524 --> 00:19:12,736
+C'est Noël.
+
+337
+00:19:13,863 --> 00:19:15,704
+- OK, tu le savais.
+- Merci.
+
+338
+00:19:16,041 --> 00:19:18,031
+- Je le savais.
+- Elle le savait.
+
+339
+00:19:19,301 --> 00:19:23,001
+Il s'avère qu'on ne peut pas mettre
+quelqu'un en cure contre sa volonté.
+
+340
+00:19:23,126 --> 00:19:25,097
+Il faut qu'ils soient d'accord.
+
+341
+00:19:25,963 --> 00:19:27,916
+Ils doivent avoir touché le fond.
+
+342
+00:19:28,084 --> 00:19:30,484
+Donc je sais
+ce qu'il me reste à faire.
+
+343
+00:19:30,609 --> 00:19:31,795
+Il faut que...
+
+344
+00:19:32,721 --> 00:19:35,579
+je trouve un moyen
+de l'entrainer au fond.
+
+345
+00:19:37,814 --> 00:19:39,524
+Je pense pouvoir le faire.
+
+346
+00:19:39,876 --> 00:19:41,387
+J'ai bien réussi avec Jane.
+
+347
+00:19:43,557 --> 00:19:46,008
+Tout le monde est là.
+C'est parfait.
+
+348
+00:19:46,133 --> 00:19:48,269
+J'ai préparé une petite surprise.
+
+349
+00:19:48,790 --> 00:19:51,533
+Angela, jolie mariée,
+je veux que tu saches
+
+350
+00:19:51,973 --> 00:19:54,462
+que dans le futur, peu importe
+
+351
+00:19:54,819 --> 00:19:56,560
+le milieu culturel,
+
+352
+00:19:57,154 --> 00:19:59,739
+je serai toujours
+à tes côtés pour...
+
+353
+00:20:00,093 --> 00:20:01,866
+témoigner de l'amour de Noël.
+
+354
+00:20:36,235 --> 00:20:38,296
+J'aimerais rentrer à la maison.
+
+355
+00:20:38,779 --> 00:20:39,780
+Bien sûr.
+
+356
+00:20:43,281 --> 00:20:44,588
+Public difficile.
+
+357
+00:20:45,813 --> 00:20:47,984
+Soyez sympa,
+je viens de l'apprendre.
+
+358
+00:20:48,109 --> 00:20:50,450
+La tradition, c'est d'applaudir.
+
+359
+00:20:50,685 --> 00:20:52,958
+Mais joyeux Noël tout le monde,
+
+360
+00:20:53,083 --> 00:20:55,300
+et une bonne nuit à tous !
+
+

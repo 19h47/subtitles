@@ -1,0 +1,1855 @@
+1
+00:00:01,295 --> 00:00:02,573
+<i>Je te laisse.</i>
+
+2
+00:00:02,849 --> 00:00:05,099
+D'accord.
+Je salue les autres pour toi.
+
+3
+00:00:05,219 --> 00:00:06,933
+<i>Non, je suis fâchée contre eux.</i>
+
+4
+00:00:07,355 --> 00:00:08,297
+Pourquoi ?
+
+5
+00:00:08,417 --> 00:00:11,219
+<i>Personne ne m'a félicitée
+pour nos fiançailles.</i>
+
+6
+00:00:12,686 --> 00:00:16,348
+Ça, c'est peut-être
+parce que je leur ai rien dit.
+
+7
+00:00:16,784 --> 00:00:18,116
+<i>Mais pourquoi ?</i>
+
+8
+00:00:19,007 --> 00:00:21,683
+J'appréhendais les réactions.
+
+9
+00:00:22,143 --> 00:00:23,276
+<i>Allez, courage.</i>
+
+10
+00:00:23,770 --> 00:00:26,662
+D'accord. Tu sais quoi ?
+Je me lance.
+
+11
+00:00:29,225 --> 00:00:31,375
+Écoutez, j'ai une annonce à faire.
+
+12
+00:00:31,719 --> 00:00:34,621
+- Pam et moi sommes fiancés.
+- <i>Salut !</i>
+
+13
+00:00:35,308 --> 00:00:36,665
+Vous l'étiez pas déjà ?
+
+14
+00:00:37,534 --> 00:00:39,876
+C'est avec Roy
+qu'elle était fiancée.
+
+15
+00:00:40,164 --> 00:00:41,015
+Merci.
+
+16
+00:00:41,135 --> 00:00:43,250
+J'ai un cadeau pour Pam et Roy.
+
+17
+00:00:43,491 --> 00:00:45,715
+- Je dois en acheter un autre ?
+- Oui.
+
+18
+00:00:45,835 --> 00:00:47,755
+C'est proche de mes fiançailles.
+
+19
+00:00:47,875 --> 00:00:49,886
+- Tu cherches quoi ?
+- À me marier.
+
+20
+00:00:50,500 --> 00:00:52,486
+Tu sais qu'elle n'est pas vierge ?
+
+21
+00:00:53,468 --> 00:00:56,976
+- Qu'y a-t-il ?
+- <i>Rien, Michael ! Je saluais.</i>
+
+22
+00:00:57,477 --> 00:00:58,937
+Le grand s'est fiancé.
+
+23
+00:00:59,672 --> 00:01:01,294
+- Pour se marier ?
+- Oui.
+
+24
+00:01:05,396 --> 00:01:06,319
+<i>Désolée.</i>
+
+25
+00:01:06,648 --> 00:01:09,064
+Sous-titres : - Feygnasse Team -
+
+26
+00:01:09,274 --> 00:01:12,649
+Adaptation VF :
+Kezac, Jaqpojaq, Sk0r, Collioure
+
+27
+00:01:24,922 --> 00:01:27,215
+{\pos(280,225)}Épisode 5x02
+"Business Ethics" (1.02)
+
+28
+00:01:29,802 --> 00:01:32,632
+{\pos(190,200)}Posez vos stylos !
+Je plaisante. Prenez votre temps.
+
+29
+00:01:32,752 --> 00:01:34,222
+{\pos(190,200)}C'est la journée éthique.
+
+30
+00:01:34,384 --> 00:01:37,582
+{\pos(190,200)}Dès qu'ils finiront le questionnaire,
+je tiendrai ma première réunion.
+
+31
+00:01:37,799 --> 00:01:39,891
+{\pos(190,200)}Ça va être de la folie !
+
+32
+00:01:41,577 --> 00:01:44,399
+{\pos(190,200)}Non, en fait.
+Je vais lire les consignes.
+
+33
+00:01:47,509 --> 00:01:48,952
+Je m'en occupe.
+
+34
+00:01:49,425 --> 00:01:52,853
+<i>I took you to an intimate restaurant</i>
+
+35
+00:01:53,201 --> 00:01:56,020
+{\pos(190,200)}<i>Then to a suggestive movie</i>
+
+36
+00:01:57,593 --> 00:02:00,349
+{\pos(190,200)}<i>There's nothing left to talk about</i>
+
+37
+00:02:00,519 --> 00:02:03,141
+{\pos(190,200)}<i>Unless it's horizontally</i>
+
+38
+00:02:03,902 --> 00:02:07,472
+{\pos(190,200)}<i>Devenons tous éthiques, tous éthiques</i>
+
+39
+00:02:07,592 --> 00:02:09,685
+{\pos(190,200)}<i>Je veux devenir éthique</i>
+
+40
+00:02:10,515 --> 00:02:12,368
+{\pos(190,200)}<i>Mettons-nous à l'éthique</i>
+
+41
+00:02:12,538 --> 00:02:15,015
+{\pos(190,200)}<i>Je veux entendre parler Dunder Mifflin</i>
+
+42
+00:02:15,186 --> 00:02:18,544
+{\pos(190,200)}<i>Parler ton corps</i>
+<i>Je veux entendre parler ton corps</i>
+
+43
+00:02:20,096 --> 00:02:22,732
+{\pos(190,200)}Pourquoi tu l'aides ?
+Tu ne sors même pas avec elle.
+
+44
+00:02:22,852 --> 00:02:24,140
+{\pos(190,200)}C'est mon amie.
+
+45
+00:02:25,219 --> 00:02:28,075
+{\pos(190,200)}Le but de ma stratégie,
+c'est de...
+
+46
+00:02:28,317 --> 00:02:31,403
+{\pos(190,200)}transmuer cette amitié
+en relation amoureuse.
+
+47
+00:02:31,523 --> 00:02:32,720
+{\pos(190,200)}À son insu.
+
+48
+00:02:35,885 --> 00:02:38,914
+{\pos(190,200)}On applaudit bien fort
+mademoiselle Holly Flax !
+
+49
+00:02:40,298 --> 00:02:41,563
+{\pos(190,200)}Merci Michael.
+
+50
+00:02:42,230 --> 00:02:44,675
+{\pos(190,200)}Ce séminaire
+sur l'éthique professionnelle a lieu
+
+51
+00:02:44,795 --> 00:02:47,135
+{\pos(190,200)}car récemment,
+sans citer de noms,
+
+52
+00:02:47,255 --> 00:02:49,543
+{\pos(190,200)}il y a eu
+des malversations au siège.
+
+53
+00:02:49,663 --> 00:02:52,255
+Or, nous avons
+une politique éthique très stricte,
+
+54
+00:02:52,375 --> 00:02:54,199
+{\pos(190,200)}et cet employé a été viré.
+
+55
+00:02:54,319 --> 00:02:56,462
+{\pos(190,200)}Arrête ! Il est là.
+
+56
+00:02:57,104 --> 00:02:58,428
+{\pos(190,200)}Il a rempilé!
+
+57
+00:02:58,598 --> 00:03:01,163
+{\pos(190,200)}- Écoute ça : rem-PiloMan.
+- Joli.
+
+58
+00:03:02,095 --> 00:03:04,437
+Assez de non-dits. Parlons-en.
+
+59
+00:03:04,995 --> 00:03:07,362
+Est-ce que je regrette
+ce que j'ai fait ?
+
+60
+00:03:07,803 --> 00:03:08,900
+Bien sûr.
+
+61
+00:03:09,060 --> 00:03:11,402
+Même si c'était une super aventure.
+Un exemple :
+
+62
+00:03:11,714 --> 00:03:13,738
+qui a vu la sixième saison
+de <i>Survivor</i> ?
+
+63
+00:03:14,075 --> 00:03:15,917
+Vous vous souvenez de Joanna ?
+
+64
+00:03:16,037 --> 00:03:18,096
+À New York,
+je suis sortie avec une fille
+
+65
+00:03:18,216 --> 00:03:20,241
+qui lui ressemblait parfaitement.
+
+66
+00:03:20,361 --> 00:03:21,957
+Son portrait craché.
+
+67
+00:03:24,715 --> 00:03:26,857
+Bon discours, Ryan.
+Tu es un type bien.
+
+68
+00:03:27,037 --> 00:03:30,588
+Parlons des questionnaires
+que vous avez remplis ce matin.
+
+69
+00:03:30,815 --> 00:03:34,114
+"Il ne faut pas passer
+d'appels personnels pendant le travail."
+
+70
+00:03:34,234 --> 00:03:36,712
+Certains ont répondu
+"très fortement d'accord",
+
+71
+00:03:36,832 --> 00:03:39,180
+l'idéal étant :
+"tout à fait d'accord".
+
+72
+00:03:39,342 --> 00:03:41,218
+Je croyais que "très fortement"
+
+73
+00:03:41,338 --> 00:03:43,990
+était plus fort que "tout à fait".
+
+74
+00:03:44,110 --> 00:03:45,520
+Le siège vous rappelle
+
+75
+00:03:45,680 --> 00:03:48,898
+que dans l'idéal, vous devez tous
+être "tout à fait d'accord".
+
+76
+00:03:49,060 --> 00:03:51,192
+Je pense qu'on est
+tout à fait d'accord
+
+77
+00:03:51,312 --> 00:03:53,967
+pour dire que Holly
+est tout à fait fantastique.
+
+78
+00:03:54,557 --> 00:03:55,447
+Merci.
+
+79
+00:03:57,395 --> 00:03:59,780
+"Passer une demi-heure
+à la fontaine d'eau
+
+80
+00:03:59,900 --> 00:04:02,233
+pendant le travail
+est une forme de vol."
+
+81
+00:04:02,353 --> 00:04:04,530
+- Quoi ?
+- Ça s'appelle du vol de temps,
+
+82
+00:04:04,650 --> 00:04:07,048
+ça revient à voler
+de l'argent à la société.
+
+83
+00:04:07,168 --> 00:04:09,169
+Pouvez-vous donner des exemples
+
+84
+00:04:09,329 --> 00:04:11,162
+de pertes de temps exagérées ?
+
+85
+00:04:11,282 --> 00:04:12,393
+Cette réunion.
+
+86
+00:04:12,993 --> 00:04:14,577
+Ne leur tends pas de perche.
+
+87
+00:04:14,697 --> 00:04:17,296
+Pourquoi les fumeurs
+peuvent prendre plein de pauses ?
+
+88
+00:04:17,416 --> 00:04:19,963
+Si je veux prendre l'air
+toutes les heures,
+
+89
+00:04:20,083 --> 00:04:22,208
+je me mettrai à fumer.
+Pas de souci.
+
+90
+00:04:22,328 --> 00:04:24,809
+Je fumerai avec toi.
+J'ai des cigares dans mon sac.
+
+91
+00:04:24,971 --> 00:04:27,532
+Le vol de fournitures
+est une autre question d'éthique
+
+92
+00:04:27,652 --> 00:04:29,647
+qui nécessite d'être clarifiée.
+
+93
+00:04:30,754 --> 00:04:31,941
+Excusez-nous.
+
+94
+00:04:32,444 --> 00:04:33,778
+Je peux te parler ?
+
+95
+00:04:34,305 --> 00:04:35,657
+Pas mal du tout.
+
+96
+00:04:36,178 --> 00:04:38,278
+Et tu es... fantastique.
+
+97
+00:04:39,592 --> 00:04:41,409
+Que faisons-nous pendant ce temps ?
+
+98
+00:04:41,654 --> 00:04:43,077
+Faites... du travail.
+
+99
+00:04:44,242 --> 00:04:47,064
+Ils attendent beaucoup
+de ces réunions :
+
+100
+00:04:47,184 --> 00:04:50,752
+du rire, des rebondissements,
+des chutes inattendues.
+
+101
+00:04:51,215 --> 00:04:54,923
+Tu dois être Robin Williams
+et M. Night Shyamalan.
+
+102
+00:04:55,083 --> 00:04:56,841
+Tu dois être Robin Shyamalan.
+
+103
+00:04:57,051 --> 00:04:58,790
+Je dois finir ma lecture.
+
+104
+00:04:58,910 --> 00:05:01,006
+- Mais tu les perds.
+- C'est vrai ?
+
+105
+00:05:01,326 --> 00:05:03,170
+Ne pense pas aux enjeux.
+
+106
+00:05:03,290 --> 00:05:04,909
+Ça va te faire flipper.
+
+107
+00:05:06,660 --> 00:05:08,272
+Michael a raison.
+
+108
+00:05:08,909 --> 00:05:10,730
+On va illustrer un peu.
+
+109
+00:05:10,940 --> 00:05:13,274
+Disons que je m'appelle Lauren.
+
+110
+00:05:13,484 --> 00:05:15,876
+Je fais mes courses au supermarché,
+
+111
+00:05:15,996 --> 00:05:18,620
+et je vole un crayon. C'est mal.
+
+112
+00:05:19,825 --> 00:05:21,774
+Lauren, ça suffit les crayons !
+
+113
+00:05:21,986 --> 00:05:24,448
+Je dois évoquer les crayons
+et les fournitures de bureau.
+
+114
+00:05:24,568 --> 00:05:27,325
+- Ça fait partie de l'éthique.
+- Ce n'est pas de l'éthique.
+
+115
+00:05:27,619 --> 00:05:31,044
+L'éthique traite
+de différentes conceptions du bien.
+
+116
+00:05:31,361 --> 00:05:34,103
+Ça, c'est juste
+les règles du siège contre le vol.
+
+117
+00:05:34,223 --> 00:05:35,838
+Je vous lache une bombe éthique :
+
+118
+00:05:36,048 --> 00:05:39,219
+voleriez-vous du pain
+pour nourrir votre famille ?
+
+119
+00:05:40,318 --> 00:05:41,785
+Exactement, Andy.
+
+120
+00:05:42,348 --> 00:05:45,139
+J'ai fait initiation à la philosophie.
+Deux fois. Fastoche.
+
+121
+00:05:45,301 --> 00:05:47,350
+Question piège :
+le pain est empoisonné.
+
+122
+00:05:47,732 --> 00:05:50,505
+Et ce n'est pas ta vraie famille.
+Tu as été cocufié
+
+123
+00:05:50,625 --> 00:05:52,397
+par un mâle plus fort et plus rusé.
+
+124
+00:05:52,607 --> 00:05:54,979
+Non, ça ne marche pas comme ça.
+
+125
+00:05:56,260 --> 00:05:59,400
+Pour ma part,
+je ne volerais pas le pain.
+
+126
+00:05:59,520 --> 00:06:02,824
+Et je ne laisserais pas
+ma famille mourir de faim.
+
+127
+00:06:02,984 --> 00:06:05,248
+Bien, revenons au sujet.
+
+128
+00:06:05,656 --> 00:06:07,277
+Avez vous déjà eu
+
+129
+00:06:07,397 --> 00:06:09,602
+un dilemme éthique au bureau ?
+
+130
+00:06:11,119 --> 00:06:12,262
+Personne ?
+
+131
+00:06:12,382 --> 00:06:15,833
+Vous avez l'occasion de parler
+sans craindre les répercussions.
+
+132
+00:06:15,953 --> 00:06:16,970
+Stanley ?
+
+133
+00:06:17,090 --> 00:06:18,881
+- Oscar, allez.
+- Je passe.
+
+134
+00:06:19,481 --> 00:06:20,716
+Je commence.
+
+135
+00:06:21,239 --> 00:06:23,675
+Quand j'ai découvert Youtube,
+je n'ai pas travaillé
+
+136
+00:06:23,795 --> 00:06:26,597
+pendant cinq jours.
+Je n'ai rien fait.
+
+137
+00:06:27,143 --> 00:06:29,812
+J'ai vu Cookie Monster
+chanter <i>Chocolate Rain</i>
+
+138
+00:06:29,932 --> 00:06:31,426
+un millier de fois.
+
+139
+00:06:31,546 --> 00:06:33,236
+Quel était le dilemme ?
+
+140
+00:06:33,356 --> 00:06:35,013
+De te l'avouer ou pas.
+
+141
+00:06:35,280 --> 00:06:39,152
+Et je suis content de l'avoir fait.
+Je me sens très bien. Cathartique.
+
+142
+00:06:39,686 --> 00:06:42,297
+Je vous promets
+que vous n'aurez pas d'ennuis.
+
+143
+00:06:42,417 --> 00:06:46,328
+Vous pouvez dire ce que vous voulez
+en totale immunité.
+
+144
+00:06:47,701 --> 00:06:48,995
+Allez. Quelqu'un ?
+
+145
+00:06:49,251 --> 00:06:50,328
+Lâchez-vous.
+
+146
+00:06:50,448 --> 00:06:52,832
+Il m'arrive parfois
+de prendre un long repas.
+
+147
+00:06:52,994 --> 00:06:55,146
+- Une <i>siesta</i> !
+- Voleur de temps !
+
+148
+00:06:55,266 --> 00:06:56,331
+Vire-le !
+
+149
+00:06:57,303 --> 00:06:59,756
+Tu n'as jamais
+volé de temps à la société ?
+
+150
+00:07:00,091 --> 00:07:01,033
+Jamais.
+
+151
+00:07:01,252 --> 00:07:03,227
+Tu es un voleur de joie.
+
+152
+00:07:03,496 --> 00:07:04,875
+Qui d'autre ?
+Oui !
+
+153
+00:07:04,995 --> 00:07:08,181
+Parfois, je télécharge illégalement
+de la musique au bureau.
+
+154
+00:07:08,383 --> 00:07:10,141
+Comme tout le monde. C'est bien !
+
+155
+00:07:10,301 --> 00:07:12,566
+- Quoi d'autre ?
+- Non, j'aimerais en savoir plus.
+
+156
+00:07:12,686 --> 00:07:15,390
+J'ai dénoncé Oscar
+au Service de l'Immigration.
+
+157
+00:07:15,877 --> 00:07:18,858
+Il est en règle,
+mais je suis contente de l'avoir fait.
+
+158
+00:07:19,889 --> 00:07:21,944
+- Que la fête continue !
+- À moi.
+
+159
+00:07:23,046 --> 00:07:26,574
+Vous connaissez Bruce Myers,
+le représentant de Hammermill ?
+
+160
+00:07:28,021 --> 00:07:30,589
+Ça fait six ans
+que je couche avec lui
+
+161
+00:07:30,709 --> 00:07:33,075
+en échange
+de rabais sur nos fournitures
+
+162
+00:07:33,195 --> 00:07:35,672
+et de tickets restaurant
+pour Buffalo Grill.
+
+163
+00:07:35,792 --> 00:07:36,667
+Jackpot.
+
+164
+00:07:39,090 --> 00:07:41,204
+Meredith, c'est grave.
+
+165
+00:07:42,548 --> 00:07:45,029
+C'est non seulement
+un conflit d'intérêts,
+
+166
+00:07:45,149 --> 00:07:47,095
+mais aussi un échange de biens.
+
+167
+00:07:47,612 --> 00:07:49,055
+Un échange de steak.
+
+168
+00:07:49,506 --> 00:07:51,125
+Tu connais l'aloyau, chérie ?
+
+169
+00:07:51,245 --> 00:07:52,328
+C'est dingue.
+
+170
+00:07:52,582 --> 00:07:54,320
+Un truc de dingue !
+
+171
+00:07:54,490 --> 00:07:55,556
+Meredith.
+
+172
+00:07:56,193 --> 00:07:59,057
+La "Merenator",
+couchant avec les fournisseurs.
+
+173
+00:08:02,746 --> 00:08:04,779
+Quelle heure il est ?
+Vous savez quoi ?
+
+174
+00:08:04,899 --> 00:08:07,044
+C'est le bon moment pour arrêter.
+
+175
+00:08:07,164 --> 00:08:10,097
+C'était un super séminaire
+sur l'éthique.
+
+176
+00:08:10,217 --> 00:08:13,473
+Elle nous a donné
+plein de belles choses à méditer :
+
+177
+00:08:13,593 --> 00:08:16,032
+ce qui est bien, ce qui ne l'est pas...
+
+178
+00:08:16,662 --> 00:08:18,891
+Qui peut le dire, finalement ?
+
+179
+00:08:19,123 --> 00:08:21,094
+C'est inconnaissable.
+
+180
+00:08:21,974 --> 00:08:24,183
+Mais on l'applaudit bien fort !
+
+181
+00:08:25,674 --> 00:08:27,224
+Retournez travailler.
+
+182
+00:08:28,297 --> 00:08:29,517
+Bon boulot.
+
+183
+00:08:29,933 --> 00:08:32,135
+Je suis très impressionné.
+
+184
+00:08:32,584 --> 00:08:34,087
+Tu as vraiment assuré.
+
+185
+00:08:34,207 --> 00:08:36,962
+Excellente réunion.
+On devrait fêter ça.
+
+186
+00:08:37,207 --> 00:08:39,800
+Il y a de sérieux problèmes
+avec Meredith.
+
+187
+00:08:40,216 --> 00:08:42,916
+Vous avez tous fait des choses
+que je n'aurais pas faites,
+
+188
+00:08:43,036 --> 00:08:45,403
+mais Meredith
+a vraiment dépassé les limites.
+
+189
+00:08:45,563 --> 00:08:46,422
+Ouais.
+
+190
+00:08:47,095 --> 00:08:48,822
+Qu'est-ce qu'on y peut ?
+
+191
+00:08:54,811 --> 00:08:56,609
+À propos de ce fournisseur,
+
+192
+00:08:56,924 --> 00:08:59,966
+environ combien
+de rapports y a-t-il eu ?
+
+193
+00:09:00,086 --> 00:09:02,133
+De rapports ?
+De coups, tu veux dire ?
+
+194
+00:09:02,303 --> 00:09:03,326
+Je sais pas.
+
+195
+00:09:03,446 --> 00:09:06,033
+Une fois par mois
+pendant six ans, à peu près.
+
+196
+00:09:06,251 --> 00:09:08,796
+Meredith,
+pourquoi tu ne dis pas à Holly :
+
+197
+00:09:08,916 --> 00:09:10,612
+ce n'est pas ce qu'elle croit,
+
+198
+00:09:10,732 --> 00:09:12,794
+rien de contraire
+à l'éthique ne s'est produit,
+
+199
+00:09:12,914 --> 00:09:16,475
+et tu aimes juste
+coucher à droite à gauche ?
+
+200
+00:09:16,870 --> 00:09:18,144
+J'aurai des ennuis ?
+
+201
+00:09:18,304 --> 00:09:20,938
+Non, ce n'est
+qu'une formalité débile.
+
+202
+00:09:21,348 --> 00:09:23,740
+Non, ce n'est pas qu'une formalité.
+
+203
+00:09:24,376 --> 00:09:27,153
+Est-ce que ces... coups
+
+204
+00:09:27,570 --> 00:09:30,448
+étaient simplement personnels,
+sans rapport avec les affaires ?
+
+205
+00:09:30,769 --> 00:09:33,862
+Non. Je ne l'aurais pas fait
+s'il n'y avait pas eu les remises.
+
+206
+00:09:33,982 --> 00:09:35,495
+Trop petit kiki.
+
+207
+00:09:35,738 --> 00:09:38,794
+Pour l'amour de Dieu,
+on essaie de t'aider, triple buse !
+
+208
+00:09:39,450 --> 00:09:41,868
+Il y a quelque chose
+que je ne comprends pas...
+
+209
+00:09:42,202 --> 00:09:44,185
+Pourquoi les tickets restaurant,
+
+210
+00:09:44,305 --> 00:09:47,089
+si tu avais déjà
+les remises sur le papier ?
+
+211
+00:09:47,720 --> 00:09:48,983
+C'est marrant.
+
+212
+00:09:49,103 --> 00:09:51,348
+C'est peut-être
+un truc de fille, mais...
+
+213
+00:09:51,554 --> 00:09:54,942
+après l'avoir fait,
+quand il me donnait ces tickets,
+
+214
+00:09:55,245 --> 00:09:57,892
+je me sentais en paix avec moi-même.
+
+215
+00:10:02,168 --> 00:10:04,899
+Que se passe-t-il ?
+Je n'ai pas d'immunité ?
+
+216
+00:10:05,059 --> 00:10:08,071
+Malheureusement,
+l'immunité ou la confidentialité
+
+217
+00:10:08,191 --> 00:10:10,231
+n'existent pas vraiment au travail.
+
+218
+00:10:10,351 --> 00:10:13,882
+Je n'ai jamais vu personne garder
+son travail après une telle chose.
+
+219
+00:10:15,364 --> 00:10:16,860
+Je démissionnerai pas.
+
+220
+00:10:28,952 --> 00:10:30,508
+Bâillement.
+4 secondes.
+
+221
+00:10:32,571 --> 00:10:33,779
+Tu fais quoi ?
+
+222
+00:10:33,899 --> 00:10:36,172
+Tu as dit ne rien faire
+de personnel au travail,
+
+223
+00:10:36,292 --> 00:10:37,848
+alors je vérifie.
+
+224
+00:10:38,644 --> 00:10:41,454
+Tu vas me chronométrer
+chaque fois que je baîlle ?
+
+225
+00:10:41,574 --> 00:10:43,711
+C'est absurde.
+Vraiment ?
+
+226
+00:10:44,323 --> 00:10:47,900
+Regardez,
+l'idiot sait utiliser un chronomètre !
+
+227
+00:10:48,062 --> 00:10:49,344
+Il chrono...
+
+228
+00:10:54,459 --> 00:10:56,951
+Conversation privée.
+17 secondes.
+
+229
+00:10:57,407 --> 00:10:59,529
+Ce n'était sûrement pas...
+
+230
+00:11:01,039 --> 00:11:02,305
+Une seconde.
+
+231
+00:11:05,536 --> 00:11:06,653
+Eh bien...
+
+232
+00:11:07,104 --> 00:11:08,503
+Holly-lujah.
+
+233
+00:11:09,203 --> 00:11:11,382
+C'est un miracle,
+tu es à ton bureau.
+
+234
+00:11:11,592 --> 00:11:13,379
+C'est mike-raculeux !
+
+235
+00:11:14,888 --> 00:11:17,165
+Pas loin !
+Tu y arriveras.
+
+236
+00:11:17,285 --> 00:11:19,318
+Bref, j'y ai un peu réfléchi
+
+237
+00:11:19,690 --> 00:11:21,465
+et je ne vois pas pourquoi
+
+238
+00:11:21,585 --> 00:11:24,235
+deux adultes beaux et séduisants,
+
+239
+00:11:24,969 --> 00:11:27,080
+intelligents, marrants...
+
+240
+00:11:27,704 --> 00:11:28,983
+et séduisants
+
+241
+00:11:29,143 --> 00:11:32,761
+ne pourraient pas
+régler calmement le cas de Meredith.
+
+242
+00:11:33,109 --> 00:11:34,220
+Bonne idée.
+
+243
+00:11:34,775 --> 00:11:35,597
+Bien.
+
+244
+00:11:36,349 --> 00:11:38,320
+Si on se tapait ça en déjeunant ?
+
+245
+00:11:38,647 --> 00:11:40,293
+J'ai déjà acheté ça.
+
+246
+00:11:40,836 --> 00:11:41,921
+Non, non.
+
+247
+00:11:42,592 --> 00:11:46,247
+Ta nourriture
+n'est pas acceptée ici, ma chère.
+
+248
+00:11:47,392 --> 00:11:48,339
+Désolé.
+
+249
+00:11:49,181 --> 00:11:50,896
+Allons au restaurant.
+
+250
+00:11:51,154 --> 00:11:53,049
+C'est Dunder Mifflin qui régale.
+
+251
+00:11:55,488 --> 00:11:57,776
+Mais tu n'es pas un client, alors...
+
+252
+00:11:58,256 --> 00:11:59,805
+on partage l'addition ?
+
+253
+00:12:00,381 --> 00:12:01,401
+Éthique.
+
+254
+00:12:05,509 --> 00:12:08,397
+- J'ai relu le règlement de la société.
+- Qu'en penses-tu ?
+
+255
+00:12:09,529 --> 00:12:10,733
+Ce restaurant.
+
+256
+00:12:10,893 --> 00:12:12,621
+- Très sympa.
+- N'est-ce pas ?
+
+257
+00:12:12,741 --> 00:12:14,987
+C'est un peu...
+romantico-professionnel.
+
+258
+00:12:16,011 --> 00:12:17,990
+Alors tu viens de Des Moines ?
+
+259
+00:12:18,152 --> 00:12:19,831
+Ça fait penser à...
+
+260
+00:12:19,951 --> 00:12:21,035
+la chaleur.
+
+261
+00:12:21,729 --> 00:12:22,536
+En été.
+
+262
+00:12:23,872 --> 00:12:26,499
+Ici aussi.
+Tu connais ma saison préférée ?
+
+263
+00:12:26,817 --> 00:12:28,542
+Parlons d'abord de Meredith.
+
+264
+00:12:28,704 --> 00:12:30,831
+Oui. Débarrassons-nous
+des choses ennuyantes.
+
+265
+00:12:30,951 --> 00:12:33,898
+J'allais dire automne.
+Quand les feuilles changent...
+
+266
+00:12:34,135 --> 00:12:37,944
+Selon moi, c'est la saison
+la plus contemplative.
+
+267
+00:12:39,066 --> 00:12:41,928
+J'ai donc parcouru tout ça,
+j'y ai réfléchi,
+
+268
+00:12:42,048 --> 00:12:45,017
+et je ne vois pas
+comment écrire un rapport
+
+269
+00:12:45,137 --> 00:12:47,601
+qui ne mettrait pas
+un terme à son contrat.
+
+270
+00:12:49,035 --> 00:12:50,180
+Terminator.
+
+271
+00:12:50,921 --> 00:12:51,974
+Terminator.
+
+272
+00:12:52,353 --> 00:12:53,651
+Je viens du futur.
+
+273
+00:12:56,629 --> 00:12:57,722
+Hé, Andy.
+
+274
+00:12:59,152 --> 00:13:01,756
+T'aurais pas regardé
+<i>Battlestar Galactica</i> hier soir ?
+
+275
+00:13:02,033 --> 00:13:04,398
+Non. C'était bien ?
+
+276
+00:13:04,656 --> 00:13:06,744
+Non, c'était plutôt moyen.
+
+277
+00:13:09,440 --> 00:13:11,523
+J'aime bien les monstres bizarres,
+
+278
+00:13:11,643 --> 00:13:14,177
+comme les Klingons et les Wookies...
+
+279
+00:13:14,819 --> 00:13:16,316
+tout ça, mais...
+
+280
+00:13:17,677 --> 00:13:20,425
+Désolé. Tu voulais ajouter
+quelque chose, Dwight ?
+
+281
+00:13:22,909 --> 00:13:25,504
+Ça ressemble
+au <i>Battlestar Galactica</i> original ?
+
+282
+00:13:25,624 --> 00:13:26,732
+Justement.
+
+283
+00:13:27,136 --> 00:13:29,458
+C'est quasiment
+un remake plan par plan.
+
+284
+00:13:29,578 --> 00:13:30,733
+Vraiment ?
+
+285
+00:13:33,094 --> 00:13:33,914
+Cool.
+
+286
+00:13:34,224 --> 00:13:35,522
+C'est un peu plat.
+
+287
+00:13:35,642 --> 00:13:37,916
+Ça parle de ce mec,
+Dumbledore Calrissian,
+
+288
+00:13:38,036 --> 00:13:41,045
+qui doit rapporter
+l'anneau à Mordor.
+
+289
+00:13:42,614 --> 00:13:44,285
+Ça m'a pas l'air correct.
+
+290
+00:13:45,430 --> 00:13:47,537
+Je ne veux pas que mes employés
+
+291
+00:13:47,657 --> 00:13:51,406
+pensent que leur boulot
+dépend de leur performance.
+
+292
+00:13:53,830 --> 00:13:56,134
+Ils ne se sentiraient pas à l'aise.
+
+293
+00:13:56,957 --> 00:13:58,838
+Meredith a besoin de ce boulot.
+
+294
+00:13:59,121 --> 00:14:00,718
+C'est son gagne-pain.
+
+295
+00:14:01,186 --> 00:14:03,975
+C'est gentil de ta part,
+mais on doit suivre le protocole.
+
+296
+00:14:04,095 --> 00:14:05,431
+Ce sont les règles.
+
+297
+00:14:05,591 --> 00:14:06,676
+Autre idée :
+
+298
+00:14:06,796 --> 00:14:09,602
+- on ne dit rien, mais on la punit.
+- On la punit ?
+
+299
+00:14:09,762 --> 00:14:11,604
+Pas de sexe pendant six mois.
+
+300
+00:14:12,653 --> 00:14:14,273
+Ce n'est pas de notre ressort.
+
+301
+00:14:14,435 --> 00:14:16,433
+Je ne sais pas.
+J'ai déjà vu un truc...
+
+302
+00:14:16,553 --> 00:14:19,028
+- une ceinture avec une serrure.
+- Une ceinture de chasteté.
+
+303
+00:14:19,446 --> 00:14:21,003
+Non, c'est plus un genre
+
+304
+00:14:21,353 --> 00:14:24,069
+de sous-vêtement,
+avec des petites pointes...
+
+305
+00:14:24,467 --> 00:14:26,952
+parfois elles sont en métal.
+
+306
+00:14:27,114 --> 00:14:28,778
+Tu vois de quoi je parle ?
+
+307
+00:14:29,040 --> 00:14:31,313
+Tu déverrouilles
+une petite trappe...
+
+308
+00:14:32,210 --> 00:14:33,289
+en bas...
+
+309
+00:14:34,332 --> 00:14:36,979
+où... tu mets... le...
+
+310
+00:14:44,495 --> 00:14:46,943
+Il n'a pas cessé de travailler
+
+311
+00:14:47,461 --> 00:14:48,982
+une seule seconde.
+
+312
+00:14:49,593 --> 00:14:51,454
+À 12h45, il a éternué
+
+313
+00:14:52,338 --> 00:14:54,355
+tout en gardant les yeux ouverts.
+
+314
+00:14:54,921 --> 00:14:56,941
+Je croyais que c'était impossible.
+
+315
+00:14:57,422 --> 00:14:59,104
+À 13h32, il a uriné.
+
+316
+00:14:59,224 --> 00:15:03,187
+Je le sais parce qu'il l'a fait
+dans une bouteille sous son bureau,
+
+317
+00:15:03,307 --> 00:15:05,290
+en remplissant ses notes de frais.
+
+318
+00:15:05,410 --> 00:15:09,119
+Mais je l'ai tellement observé
+que je n'ai pas encore bossé.
+
+319
+00:15:10,266 --> 00:15:12,856
+C'est épuisant
+d'être aussi attentif.
+
+320
+00:15:13,859 --> 00:15:15,960
+Je vais peut-être
+partir plus tôt ce soir.
+
+321
+00:15:16,170 --> 00:15:17,452
+Je dis juste
+
+322
+00:15:17,572 --> 00:15:21,402
+que je ne pense pas
+que tu comprennes ce que je dis.
+
+323
+00:15:21,970 --> 00:15:25,466
+Non, tu dis
+qu'on devrait étouffer l'affaire,
+
+324
+00:15:25,586 --> 00:15:29,065
+accepter la remise consentie,
+ne pas virer Meredith,
+
+325
+00:15:29,185 --> 00:15:31,225
+et faire comme si
+rien ne s'était passé.
+
+326
+00:15:32,322 --> 00:15:33,127
+Oui.
+
+327
+00:15:33,437 --> 00:15:35,783
+- Et moi, je dis quoi ?
+- Eh bien...
+
+328
+00:15:37,445 --> 00:15:38,599
+Tu m'as eu.
+
+329
+00:15:38,809 --> 00:15:42,124
+Je dis que son comportement
+n'est pas éthique, voire malsain.
+
+330
+00:15:42,244 --> 00:15:44,411
+Et je ne veux pas travailler
+dans un milieu
+
+331
+00:15:44,531 --> 00:15:46,657
+où l'on tolère ce genre de conduite.
+
+332
+00:15:46,817 --> 00:15:49,194
+Il faut tolérer bien des choses
+dans une famille.
+
+333
+00:15:49,314 --> 00:15:51,954
+C'est pas une famille.
+C'est un lieu de travail.
+
+334
+00:16:05,779 --> 00:16:08,023
+Pour être honnête,
+le retour en voiture
+
+335
+00:16:08,143 --> 00:16:09,948
+ne s'est pas bien passé.
+
+336
+00:16:10,529 --> 00:16:12,268
+Et ce n'est pas de ma faute.
+
+337
+00:16:12,615 --> 00:16:14,747
+Si je reste ici avec vous,
+
+338
+00:16:14,867 --> 00:16:18,034
+c'est parce que je refuse
+de prendre l'ascenseur avec elle.
+
+339
+00:16:19,032 --> 00:16:21,178
+Et je me trimballe ses restes.
+
+340
+00:16:35,857 --> 00:16:38,072
+19 minutes et 48 secondes.
+
+341
+00:16:39,300 --> 00:16:42,379
+- Qu'as-tu fait pendant ce temps ?
+- T'occupes.
+
+342
+00:16:44,785 --> 00:16:47,256
+Alors je suppose
+que l'on peut dire que c'était...
+
+343
+00:16:47,376 --> 00:16:48,540
+personnel ?
+
+344
+00:16:54,397 --> 00:16:55,289
+Exact.
+
+345
+00:16:56,592 --> 00:17:00,538
+Alors tu n'es peut-être pas
+tout à fait éthique, après tout ?
+
+346
+00:17:01,399 --> 00:17:02,234
+Oui.
+
+347
+00:17:03,418 --> 00:17:04,579
+Peut-être.
+
+348
+00:17:23,385 --> 00:17:25,023
+C'est assez tendu.
+
+349
+00:17:26,400 --> 00:17:28,711
+Tout le monde se méfie de moi
+
+350
+00:17:29,399 --> 00:17:32,346
+et mon meilleur ami du bureau
+ne me parle même plus.
+
+351
+00:17:33,054 --> 00:17:36,518
+Il s'avère qu'être dans la brigade
+des mœurs ne rend pas populaire.
+
+352
+00:17:36,638 --> 00:17:39,339
+Je devrais le savoir : au collège,
+j'étais surveillante de récré
+
+353
+00:17:39,459 --> 00:17:42,328
+et les élèves bourraient
+mon casier d'œufs brouillés.
+
+354
+00:17:42,933 --> 00:17:45,506
+J'espérais en avoir fini
+avec le collège.
+
+355
+00:17:51,349 --> 00:17:54,243
+Kendall des RH sur la ligne 1,
+et Holly arrive.
+
+356
+00:17:54,720 --> 00:17:56,871
+Quoi de pire qu'un représentant RH ?
+
+357
+00:17:57,380 --> 00:17:58,975
+Deux représentants RH.
+
+358
+00:17:59,095 --> 00:18:00,214
+Exactement.
+
+359
+00:18:01,862 --> 00:18:03,752
+- Je peux m'asseoir ?
+- À ton avis ?
+
+360
+00:18:06,673 --> 00:18:08,154
+Kendall, mon pote.
+
+361
+00:18:08,274 --> 00:18:12,140
+<i>Écoutez, Holly et Michael,
+je viens de recevoir votre rapport.</i>
+
+362
+00:18:12,260 --> 00:18:15,324
+<i>Il y est question
+d'une relation de Meredith avec...</i>
+
+363
+00:18:15,444 --> 00:18:17,753
+Oui, c'est sorti pendant
+le séminaire sur l'éthique.
+
+364
+00:18:17,873 --> 00:18:21,262
+Mais c'était pendant le moment
+d'immunité du séminaire.
+
+365
+00:18:21,382 --> 00:18:24,189
+<i>Je ne suis pas sûr qu'il faille
+en faire toute une histoire.</i>
+
+366
+00:18:24,351 --> 00:18:26,495
+Ce n'est clairement pas éthique.
+
+367
+00:18:26,615 --> 00:18:29,084
+<i>D'après moi, ça a l'air
+d'être plutôt flou.</i>
+
+368
+00:18:29,407 --> 00:18:31,427
+<i>Soyons francs :
+on a droit à une réduction</i>
+
+369
+00:18:31,547 --> 00:18:33,217
+<i>et notre bilan n'est pas terrible,</i>
+
+370
+00:18:33,337 --> 00:18:37,183
+<i>alors je pense qu'on devrait pas</i>
+<i>se poser trop de questions.</i>
+
+371
+00:18:37,606 --> 00:18:40,600
+Kendall,
+c'est bien de bénéficier d'une remise,
+
+372
+00:18:40,720 --> 00:18:43,784
+mais je n'approuve pas
+le moyen utilisé pour y parvenir.
+
+373
+00:18:45,073 --> 00:18:47,388
+<i>Je pensais
+avoir été clair avec vous, Holly.</i>
+
+374
+00:18:47,508 --> 00:18:49,835
+<i>Votre tâche était d'obtenir
+la signature des employés</i>
+
+375
+00:18:49,955 --> 00:18:51,843
+<i>attestant
+qu'ils ont suivi la formation.</i>
+
+376
+00:18:51,963 --> 00:18:52,977
+Je comprends.
+
+377
+00:18:53,097 --> 00:18:55,179
+<i>Les autres filiales
+les ont obtenues.</i>
+
+378
+00:18:55,339 --> 00:18:58,182
+<i>Si vous ne pouvez pas gérer ça,
+il faut qu'on en discute.</i>
+
+379
+00:18:58,342 --> 00:19:00,348
+- Non, je les aurai.
+- <i>Parfait.</i>
+
+380
+00:19:06,587 --> 00:19:09,870
+Comment dire à une personne
+à qui l'on tient profondément :
+
+381
+00:19:10,890 --> 00:19:12,688
+"Je te l'avais bien dit" ?
+
+382
+00:19:13,559 --> 00:19:15,603
+Gentiment, avec une rose ?
+
+383
+00:19:17,655 --> 00:19:18,835
+Avec humour,
+
+384
+00:19:19,101 --> 00:19:21,608
+comme si c'était une bonne blague ?
+
+385
+00:19:24,012 --> 00:19:25,869
+Où faut-il ne rien dire...
+
+386
+00:19:26,625 --> 00:19:29,345
+parce que cela ne ferait
+qu'empirer les choses ?
+
+387
+00:19:31,949 --> 00:19:33,704
+Sûrement avec une blague.
+
+388
+00:19:34,307 --> 00:19:36,095
+Puis-je avoir votre attention ?
+
+389
+00:19:37,794 --> 00:19:41,017
+Excusez-moi, puis-je avoir
+votre attention, s'il vous plaît ?
+
+390
+00:19:41,398 --> 00:19:43,393
+On doit terminer
+le séminaire sur l'éthique.
+
+391
+00:19:43,603 --> 00:19:45,771
+- Pas question, ma jolie.
+- C'est un piège.
+
+392
+00:19:45,931 --> 00:19:47,994
+S'il vous plaît,
+il me faut vos signatures
+
+393
+00:19:48,114 --> 00:19:49,817
+pour valider la formation.
+
+394
+00:19:49,977 --> 00:19:52,182
+- Ne signez rien.
+- Écoutez-moi tous.
+
+395
+00:19:52,302 --> 00:19:54,515
+Si vous n'êtes pas dans cette salle
+dans 2 minutes,
+
+396
+00:19:54,635 --> 00:19:55,927
+je vais vous tuer.
+
+397
+00:19:56,047 --> 00:19:58,983
+Il est 16 h 45,
+et j'ai déjà rangé mes affaires.
+
+398
+00:19:59,153 --> 00:20:02,830
+Allez-y immédiatement
+ou je vais péter un plomb !
+
+399
+00:20:13,802 --> 00:20:16,643
+- Je suis virée ?
+- Ce n'est pas le moment.
+
+400
+00:20:18,839 --> 00:20:21,101
+Dans le prochain chapitre,
+nous verrons la différence
+
+401
+00:20:21,221 --> 00:20:23,530
+entre arrêt maladie et congés payés.
+
+402
+00:20:23,853 --> 00:20:25,707
+Les arrêts maladie ne s'appliquent
+
+403
+00:20:25,827 --> 00:20:28,647
+qu'en cas de maladie
+vous empêchant de travailler
+
+404
+00:20:28,809 --> 00:20:31,142
+ou risquant de contaminer
+vos collègues.
+
+405
+00:20:31,617 --> 00:20:34,862
+Les congés payés,
+quant à eux, sont plus flexibles.
+
+406
+00:20:37,771 --> 00:20:40,871
+- Merci Meredith, c'est délicieux.
+- Qui a la sauce ?
+
+407
+00:20:42,259 --> 00:20:43,508
+Il n'y en a plus.
+
+408
+00:20:43,628 --> 00:20:45,892
+Je dois en avoir dans mon minivan.
+
+409
+00:20:47,834 --> 00:20:49,002
+Dites-moi...
+
+410
+00:20:49,122 --> 00:20:50,711
+comment elle a tous ces steaks ?
+
+411
+00:20:50,871 --> 00:20:53,038
+C'est un pourboire, je crois.
+
+412
+00:20:53,323 --> 00:20:55,507
+Mais pourquoi
+elle demande pas de l'argent ?
+
+413
+00:20:55,871 --> 00:20:58,160
+Je me fiche de ce qu'elle fait,
+tant qu'elle continue.
+
+414
+00:20:58,280 --> 00:21:00,339
+Amen, au nom des côtelettes !
+
